@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/rules.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE Rules SYSTEM "rules.dtd">
+
+    <Rules>
+    ...
+    </Rules>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT Rules (Relation)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT Relation (POS)*>
+<!ATTLIST Relation
+    Id CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT POS (Pattern)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT Pattern (PatternForm|Semantics)*>
+<!ATTLIST Pattern
+    Id CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT PatternForm (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT Semantics (#PCDATA)>

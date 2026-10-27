@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%201.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%2010.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%2011.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%2012.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%202.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%203.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%204_with%20SWRL.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%204_without%20SWRL.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%205.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%206.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%207.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%208.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1524674450520" name="duplicate:AraOnto" uri="story%209.owl"/>
+    </group>
+</catalog>

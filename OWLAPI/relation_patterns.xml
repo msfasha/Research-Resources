@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Relations>    
+	<Relation Id = "DoActivity">
+		<Pattern>
+			<POSOnly>
+				NNP VBP        
+			</POSOnly>
+			<SemanticPOS>
+				NNP-Subject VBP-Activity 
+			</SemanticPOS>                                                                                    
+		</Pattern>                            
+		<Pattern>
+			<POSOnly>
+				NNP VBD 
+			</POSOnly>					
+			<SemanticPOS>
+				NNP-Subject VBD-Activity 
+			</SemanticPOS>                                                        
+		</Pattern>	
+		<Pattern>
+			<POSOnly>
+				VBP NNP        
+			</POSOnly>
+			<SemanticPOS>
+				VBP-Activity NNP-Subject
+			</SemanticPOS>                            
+		</Pattern>		
+		<Pattern>
+			<POSOnly>
+				VBD NNP        	
+			</POSOnly>				
+			<SemanticPOS>
+				VBD-Activity NNP-Subject
+			</SemanticPOS>       
+		</Pattern> 					
+	</Relation>
+	<Relation Id = "IsA">
+		<Pattern>
+			<POSOnly>
+				NNP NN       				
+			</POSOnly>
+			<SemanticPOS>
+				NNP-SubClass NN-Class                                
+			</SemanticPOS>                            
+		</Pattern>					
+	</Relation>
+	<Relation Id = "PropertyOf">
+		<Pattern>
+			<POSOnly>
+				NNP JJ       
+			</POSOnly>
+			<SemanticPOS>
+				NNP-Object JJ-Property
+			</SemanticPOS>                            
+		</Pattern>			
+		<Pattern>
+			<POSOnly>
+				JJ NNP
+			</POSOnly>				
+			<SemanticPOS>
+				JJ-Property NNP-Object 
+			</SemanticPOS>
+		</Pattern>			
+		<Pattern>
+			<POSOnly>
+				NN JJ
+			</POSOnly>				
+			<SemanticPOS>
+				NN-Object JJ-Property
+			</SemanticPOS>
+		</Pattern>			
+		<Pattern>
+			<POSOnly>
+				JJ DTNN				
+			</POSOnly>
+			<SemanticPOS>
+				JJ-Property DTNN-Object 
+			</SemanticPOS>
+		</Pattern>			
+		<Pattern>
+			<POSOnly>
+				NNS JJ
+			</POSOnly>				
+			<SemanticPOS>
+				NNS-Object JJ-Property
+			</SemanticPOS>
+		</Pattern>			
+		<Pattern>
+			<POSOnly>
+				JJ DTNNS
+			</POSOnly>				
+			<SemanticPOS>
+				JJ-Property DTNNS-Object 
+			</SemanticPOS>
+		</Pattern>			
+	</Relation>
+	<Relation Id = "ActivityObject">		
+		<Pattern>
+			<POSOnly>
+				VBP NN       
+			</POSOnly>				
+			<SemanticPOS>
+				VBP-Activity NN-Object                                
+			</SemanticPOS>                            
+		</Pattern>			
+		<Pattern>
+			<POSOnly>
+				VBD NN       
+			</POSOnly>				
+			<SemanticPOS>
+				VBD-Activity NN-Object                                
+			</SemanticPOS>  
+		</Pattern>							
+		<Pattern>
+			<POSOnly>
+				VBD DTNN       
+			</POSOnly>				
+			<SemanticPOS>
+				VBD-Activity DTNN-Object                                
+			</SemanticPOS>  
+		</Pattern>							
+		<Pattern>
+			<POSOnly>
+				VBP DTNN       
+			</POSOnly>				
+			<SemanticPOS>
+				VBP-Activity DTNN-Object                                
+			</SemanticPOS>  
+		</Pattern>							
+	</Relation>
+	<Relation Id = "ActivityTime">					
+		<Pattern>
+			<POSOnly>
+				IN NN
+			</POSOnly>								
+			<SemanticPOS>
+				IN-Preposition NN-TIME                                
+			</SemanticPOS>
+		</Pattern>							
+	</Relation>
+	<Relation Id = "ActivityLocation">	
+		<Pattern>
+			<POSOnly>
+				IN NN
+			</POSOnly>								
+			<SemanticPOS>
+				IN-Preposition NN-LOCATION                               
+			</SemanticPOS>
+		</Pattern>							
+	</Relation>        
+</Relations>

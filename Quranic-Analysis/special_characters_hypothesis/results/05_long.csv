@@ -1,0 +1,1093 @@
+surah,muqattaat_letters,letter,calculation_type,calculation_description,value,comparison_context
+2,ا ل م,ا,count_current,Letter count in current surah,3545,Current surah with Muqatta'at
+2,ا ل م,ا,count_previous,Letter count in previous surah,20,Previous surah (surah 1)
+2,ا ل م,ا,count_all_previous,Letter count in all previous surahs,20,All surahs before current (surahs 1-1)
+2,ا ل م,ا,count_next,Letter count in next surah,2006,Next surah (surah 3)
+2,ا ل م,ا,count_all_after,Letter count in all subsequent surahs,39984,All surahs after current (surahs 3-114)
+2,ا ل م,ا,ratio_current,Letter ratio in current surah (count/total),0.1326572615350073,Current surah with Muqatta'at
+2,ا ل م,ا,ratio_previous,Letter ratio in previous surah (count/total),0.16129032258064516,Previous surah (surah 1)
+2,ا ل م,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.16129032258064516,All surahs before current (surahs 1-1)
+2,ا ل م,ا,ratio_next,Letter ratio in next surah (count/total),0.13202579965775965,Next surah (surah 3)
+2,ا ل م,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.12969185857930587,All surahs after current (surahs 3-114)
+2,ا ل م,ا,diff_vs_previous,Difference between current and previous surah ratios,-0.02863306104563787,Current vs Previous surah ratio difference
+2,ا ل م,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.02863306104563787,Current vs All Previous surahs ratio difference
+2,ا ل م,ا,diff_vs_next,Difference between current and next surah ratios,0.0006314618772476355,Current vs Next surah ratio difference
+2,ا ل م,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.0029654029557014128,Current vs All Subsequent surahs ratio difference
+2,ا ل م,ل,count_current,Letter count in current surah,3202,Current surah with Muqatta'at
+2,ا ل م,ل,count_previous,Letter count in previous surah,18,Previous surah (surah 1)
+2,ا ل م,ل,count_all_previous,Letter count in all previous surahs,18,All surahs before current (surahs 1-1)
+2,ا ل م,ل,count_next,Letter count in next surah,1893,Next surah (surah 3)
+2,ا ل م,ل,count_all_after,Letter count in all subsequent surahs,34980,All surahs after current (surahs 3-114)
+2,ا ل م,ل,ratio_current,Letter ratio in current surah (count/total),0.1198218762863451,Current surah with Muqatta'at
+2,ا ل م,ل,ratio_previous,Letter ratio in previous surah (count/total),0.14516129032258066,Previous surah (surah 1)
+2,ا ل م,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.14516129032258066,All surahs before current (surahs 1-1)
+2,ا ل م,ل,ratio_next,Letter ratio in next surah (count/total),0.12458865341582204,Next surah (surah 3)
+2,ا ل م,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.11346091469348038,All surahs after current (surahs 3-114)
+2,ا ل م,ل,diff_vs_previous,Difference between current and previous surah ratios,-0.02533941403623556,Current vs Previous surah ratio difference
+2,ا ل م,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.02533941403623556,Current vs All Previous surahs ratio difference
+2,ا ل م,ل,diff_vs_next,Difference between current and next surah ratios,-0.004766777129476943,Current vs Next surah ratio difference
+2,ا ل م,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.006360961592864714,Current vs All Subsequent surahs ratio difference
+2,ا ل م,م,count_current,Letter count in current surah,2193,Current surah with Muqatta'at
+2,ا ل م,م,count_previous,Letter count in previous surah,12,Previous surah (surah 1)
+2,ا ل م,م,count_all_previous,Letter count in all previous surahs,12,All surahs before current (surahs 1-1)
+2,ا ل م,م,count_next,Letter count in next surah,1247,Next surah (surah 3)
+2,ا ل م,م,count_all_after,Letter count in all subsequent surahs,24544,All surahs after current (surahs 3-114)
+2,ا ل م,م,ratio_current,Letter ratio in current surah (count/total),0.08206413950529506,Current surah with Muqatta'at
+2,ا ل م,م,ratio_previous,Letter ratio in previous surah (count/total),0.0967741935483871,Previous surah (surah 1)
+2,ا ل م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.0967741935483871,All surahs before current (surahs 1-1)
+2,ا ل م,م,ratio_next,Letter ratio in next surah (count/total),0.08207187047518757,Next surah (surah 3)
+2,ا ل م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07961076873175478,All surahs after current (surahs 3-114)
+2,ا ل م,م,diff_vs_previous,Difference between current and previous surah ratios,-0.01471005404309203,Current vs Previous surah ratio difference
+2,ا ل م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.01471005404309203,Current vs All Previous surahs ratio difference
+2,ا ل م,م,diff_vs_next,Difference between current and next surah ratios,-7.730969892510986e-06,Current vs Next surah ratio difference
+2,ا ل م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.0024533707735402838,Current vs All Subsequent surahs ratio difference
+3,ا ل م,ا,count_current,Letter count in current surah,2006,Current surah with Muqatta'at
+3,ا ل م,ا,count_previous,Letter count in previous surah,3545,Previous surah (surah 2)
+3,ا ل م,ا,count_all_previous,Letter count in all previous surahs,3565,All surahs before current (surahs 1-2)
+3,ا ل م,ا,count_next,Letter count in next surah,2263,Next surah (surah 4)
+3,ا ل م,ا,count_all_after,Letter count in all subsequent surahs,37978,All surahs after current (surahs 4-114)
+3,ا ل م,ا,ratio_current,Letter ratio in current surah (count/total),0.13202579965775965,Current surah with Muqatta'at
+3,ا ل م,ا,ratio_previous,Letter ratio in previous surah (count/total),0.1326572615350073,Previous surah (surah 2)
+3,ا ل م,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.1327895109323202,All surahs before current (surahs 1-2)
+3,ا ل م,ا,ratio_next,Letter ratio in next surah (count/total),0.13643214565623682,Next surah (surah 4)
+3,ا ل م,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.12957087197123224,All surahs after current (surahs 4-114)
+3,ا ل م,ا,diff_vs_previous,Difference between current and previous surah ratios,-0.0006314618772476355,Current vs Previous surah ratio difference
+3,ا ل م,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0007637112745605412,Current vs All Previous surahs ratio difference
+3,ا ل م,ا,diff_vs_next,Difference between current and next surah ratios,-0.004406345998477168,Current vs Next surah ratio difference
+3,ا ل م,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.002454927686527414,Current vs All Subsequent surahs ratio difference
+3,ا ل م,ل,count_current,Letter count in current surah,1893,Current surah with Muqatta'at
+3,ا ل م,ل,count_previous,Letter count in previous surah,3202,Previous surah (surah 2)
+3,ا ل م,ل,count_all_previous,Letter count in all previous surahs,3220,All surahs before current (surahs 1-2)
+3,ا ل م,ل,count_next,Letter count in next surah,1962,Next surah (surah 4)
+3,ا ل م,ل,count_all_after,Letter count in all subsequent surahs,33087,All surahs after current (surahs 4-114)
+3,ا ل م,ل,ratio_current,Letter ratio in current surah (count/total),0.12458865341582204,Current surah with Muqatta'at
+3,ا ل م,ل,ratio_previous,Letter ratio in previous surah (count/total),0.1198218762863451,Previous surah (surah 2)
+3,ا ل م,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.11993891310016017,All surahs before current (surahs 1-2)
+3,ا ل م,ل,ratio_next,Letter ratio in next surah (count/total),0.11828540423223007,Next surah (surah 4)
+3,ا ل م,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.11288407606804364,All surahs after current (surahs 4-114)
+3,ا ل م,ل,diff_vs_previous,Difference between current and previous surah ratios,0.004766777129476943,Current vs Previous surah ratio difference
+3,ا ل م,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.004649740315661871,Current vs All Previous surahs ratio difference
+3,ا ل م,ل,diff_vs_next,Difference between current and next surah ratios,0.006303249183591972,Current vs Next surah ratio difference
+3,ا ل م,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.011704577347778397,Current vs All Subsequent surahs ratio difference
+3,ا ل م,م,count_current,Letter count in current surah,1247,Current surah with Muqatta'at
+3,ا ل م,م,count_previous,Letter count in previous surah,2193,Previous surah (surah 2)
+3,ا ل م,م,count_all_previous,Letter count in all previous surahs,2205,All surahs before current (surahs 1-2)
+3,ا ل م,م,count_next,Letter count in next surah,1303,Next surah (surah 4)
+3,ا ل م,م,count_all_after,Letter count in all subsequent surahs,23297,All surahs after current (surahs 4-114)
+3,ا ل م,م,ratio_current,Letter ratio in current surah (count/total),0.08207187047518757,Current surah with Muqatta'at
+3,ا ل م,م,ratio_previous,Letter ratio in previous surah (count/total),0.08206413950529506,Previous surah (surah 2)
+3,ا ل م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.0821320817968488,All surahs before current (surahs 1-2)
+3,ا ل م,م,ratio_next,Letter ratio in next surah (count/total),0.07855549526737807,Next surah (surah 4)
+3,ا ل م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07948319038163668,All surahs after current (surahs 4-114)
+3,ا ل م,م,diff_vs_previous,Difference between current and previous surah ratios,7.730969892510986e-06,Current vs Previous surah ratio difference
+3,ا ل م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,-6.021132166122989e-05,Current vs All Previous surahs ratio difference
+3,ا ل م,م,diff_vs_next,Difference between current and next surah ratios,0.003516375207809508,Current vs Next surah ratio difference
+3,ا ل م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.002588680093550899,Current vs All Subsequent surahs ratio difference
+7,ا ل م ص,ا,count_current,Letter count in current surah,1958,Current surah with Muqatta'at
+7,ا ل م ص,ا,count_previous,Letter count in previous surah,1558,Previous surah (surah 6)
+7,ا ل م ص,ا,count_all_previous,Letter count in all previous surahs,11103,All surahs before current (surahs 1-6)
+7,ا ل م ص,ا,count_next,Letter count in next surah,651,Next surah (surah 8)
+7,ا ل م ص,ا,count_all_after,Letter count in all subsequent surahs,30488,All surahs after current (surahs 8-114)
+7,ا ل م ص,ا,ratio_current,Letter ratio in current surah (count/total),0.1337431693989071,Current surah with Muqatta'at
+7,ا ل م ص,ا,ratio_previous,Letter ratio in previous surah (count/total),0.12016968762051677,Previous surah (surah 6)
+7,ا ل م ص,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.13217699789288223,All surahs before current (surahs 1-6)
+7,ا ل م ص,ا,ratio_next,Letter ratio in next surah (count/total),0.11918711094837056,Next surah (surah 8)
+7,ا ل م ص,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.12891004879368811,All surahs after current (surahs 8-114)
+7,ا ل م ص,ا,diff_vs_previous,Difference between current and previous surah ratios,0.013573481778390323,Current vs Previous surah ratio difference
+7,ا ل م ص,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.001566171506024866,Current vs All Previous surahs ratio difference
+7,ا ل م ص,ا,diff_vs_next,Difference between current and next surah ratios,0.014556058450536535,Current vs Next surah ratio difference
+7,ا ل م ص,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.004833120605218982,Current vs All Subsequent surahs ratio difference
+7,ا ل م ص,ل,count_current,Letter count in current surah,1528,Current surah with Muqatta'at
+7,ا ل م ص,ل,count_previous,Letter count in previous surah,1448,Previous surah (surah 6)
+7,ا ل م ص,ل,count_all_previous,Letter count in all previous surahs,9983,All surahs before current (surahs 1-6)
+7,ا ل م ص,ل,count_next,Letter count in next surah,653,Next surah (surah 8)
+7,ا ل م ص,ل,count_all_after,Letter count in all subsequent surahs,26689,All surahs after current (surahs 8-114)
+7,ا ل م ص,ل,ratio_current,Letter ratio in current surah (count/total),0.10437158469945355,Current surah with Muqatta'at
+7,ا ل م ص,ل,ratio_previous,Letter ratio in previous surah (count/total),0.11168530659467799,Previous surah (surah 6)
+7,ا ل م ص,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.118843823287818,All surahs before current (surahs 1-6)
+7,ا ل م ص,ل,ratio_next,Letter ratio in next surah (count/total),0.11955327718784328,Next surah (surah 8)
+7,ا ل م ص,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.1128470313649548,All surahs after current (surahs 8-114)
+7,ا ل م ص,ل,diff_vs_previous,Difference between current and previous surah ratios,-0.0073137218952244315,Current vs Previous surah ratio difference
+7,ا ل م ص,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.014472238588364453,Current vs All Previous surahs ratio difference
+7,ا ل م ص,ل,diff_vs_next,Difference between current and next surah ratios,-0.015181692488389728,Current vs Next surah ratio difference
+7,ا ل م ص,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.008475446665501249,Current vs All Subsequent surahs ratio difference
+7,ا ل م ص,م,count_current,Letter count in current surah,1162,Current surah with Muqatta'at
+7,ا ل م ص,م,count_previous,Letter count in previous surah,1058,Previous surah (surah 6)
+7,ا ل م ص,م,count_all_previous,Letter count in all previous surahs,6852,All surahs before current (surahs 1-6)
+7,ا ل م ص,م,count_next,Letter count in next surah,455,Next surah (surah 8)
+7,ا ل م ص,م,count_all_after,Letter count in all subsequent surahs,18735,All surahs after current (surahs 8-114)
+7,ا ل م ص,م,ratio_current,Letter ratio in current surah (count/total),0.07937158469945355,Current surah with Muqatta'at
+7,ا ل م ص,م,ratio_previous,Letter ratio in previous surah (count/total),0.08160431932124952,Previous surah (surah 6)
+7,ا ل م ص,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.08157045749455363,All surahs before current (surahs 1-6)
+7,ا ل م ص,م,ratio_next,Letter ratio in next surah (count/total),0.08330281948004394,Next surah (surah 8)
+7,ا ل م ص,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07921574928331628,All surahs after current (surahs 8-114)
+7,ا ل م ص,م,diff_vs_previous,Difference between current and previous surah ratios,-0.002232734621795976,Current vs Previous surah ratio difference
+7,ا ل م ص,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0021988727951000875,Current vs All Previous surahs ratio difference
+7,ا ل م ص,م,diff_vs_next,Difference between current and next surah ratios,-0.00393123478059039,Current vs Next surah ratio difference
+7,ا ل م ص,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.00015583541613727048,Current vs All Subsequent surahs ratio difference
+7,ا ل م ص,ص,count_current,Letter count in current surah,98,Current surah with Muqatta'at
+7,ا ل م ص,ص,count_previous,Letter count in previous surah,69,Previous surah (surah 6)
+7,ا ل م ص,ص,count_all_previous,Letter count in all previous surahs,510,All surahs before current (surahs 1-6)
+7,ا ل م ص,ص,count_next,Letter count in next surah,29,Next surah (surah 8)
+7,ا ل م ص,ص,count_all_after,Letter count in all subsequent surahs,1467,All surahs after current (surahs 8-114)
+7,ا ل م ص,ص,ratio_current,Letter ratio in current surah (count/total),0.006693989071038252,Current surah with Muqatta'at
+7,ا ل م ص,ص,ratio_previous,Letter ratio in previous surah (count/total),0.0053220208252988815,Previous surah (surah 6)
+7,ا ل م ص,ص,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.0060713562933774595,All surahs before current (surahs 1-6)
+7,ا ل م ص,ص,ratio_next,Letter ratio in next surah (count/total),0.005309410472354449,Next surah (surah 8)
+7,ا ل م ص,ص,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.006202802465899385,All surahs after current (surahs 8-114)
+7,ا ل م ص,ص,diff_vs_previous,Difference between current and previous surah ratios,0.0013719682457393701,Current vs Previous surah ratio difference
+7,ا ل م ص,ص,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0006226327776607922,Current vs All Previous surahs ratio difference
+7,ا ل م ص,ص,diff_vs_next,Difference between current and next surah ratios,0.001384578598683803,Current vs Next surah ratio difference
+7,ا ل م ص,ص,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.0004911866051388663,Current vs All Subsequent surahs ratio difference
+10,ا ل ر,ا,count_current,Letter count in current surah,992,Current surah with Muqatta'at
+10,ا ل ر,ا,count_previous,Letter count in previous surah,1421,Previous surah (surah 9)
+10,ا ل ر,ا,count_all_previous,Letter count in all previous surahs,15133,All surahs before current (surahs 1-9)
+10,ا ل ر,ا,count_next,Letter count in next surah,980,Next surah (surah 11)
+10,ا ل ر,ا,count_all_after,Letter count in all subsequent surahs,27424,All surahs after current (surahs 11-114)
+10,ا ل ر,ا,ratio_current,Letter ratio in current surah (count/total),0.12863070539419086,Current surah with Muqatta'at
+10,ا ل ر,ا,ratio_previous,Letter ratio in previous surah (count/total),0.12601986520042568,Previous surah (surah 9)
+10,ا ل ر,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.1311590497404207,All surahs before current (surahs 1-9)
+10,ا ل ر,ا,ratio_next,Letter ratio in next surah (count/total),0.1232549364859766,Next surah (surah 11)
+10,ا ل ر,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.12932432942241673,All surahs after current (surahs 11-114)
+10,ا ل ر,ا,diff_vs_previous,Difference between current and previous surah ratios,0.0026108401937651737,Current vs Previous surah ratio difference
+10,ا ل ر,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0025283443462298383,Current vs All Previous surahs ratio difference
+10,ا ل ر,ا,diff_vs_next,Difference between current and next surah ratios,0.005375768908214257,Current vs Next surah ratio difference
+10,ا ل ر,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0006936240282258699,Current vs All Subsequent surahs ratio difference
+10,ا ل ر,ل,count_current,Letter count in current surah,913,Current surah with Muqatta'at
+10,ا ل ر,ل,count_previous,Letter count in previous surah,1347,Previous surah (surah 9)
+10,ا ل ر,ل,count_all_previous,Letter count in all previous surahs,13511,All surahs before current (surahs 1-9)
+10,ا ل ر,ل,count_next,Letter count in next surah,794,Next surah (surah 11)
+10,ا ل ر,ل,count_all_after,Letter count in all subsequent surahs,23776,All surahs after current (surahs 11-114)
+10,ا ل ر,ل,ratio_current,Letter ratio in current surah (count/total),0.11838692946058091,Current surah with Muqatta'at
+10,ا ل ر,ل,ratio_previous,Letter ratio in previous surah (count/total),0.11945725434551259,Previous surah (surah 9)
+10,ا ل ر,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.11710103225023617,All surahs before current (surahs 1-9)
+10,ا ل ر,ل,ratio_next,Letter ratio in next surah (count/total),0.09986165262231166,Next surah (surah 11)
+10,ا ل ر,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.1121213264420719,All surahs after current (surahs 11-114)
+10,ا ل ر,ل,diff_vs_previous,Difference between current and previous surah ratios,-0.001070324884931681,Current vs Previous surah ratio difference
+10,ا ل ر,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0012858972103447358,Current vs All Previous surahs ratio difference
+10,ا ل ر,ل,diff_vs_next,Difference between current and next surah ratios,0.018525276838269253,Current vs Next surah ratio difference
+10,ا ل ر,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.006265603018509008,Current vs All Subsequent surahs ratio difference
+10,ا ل ر,ر,count_current,Letter count in current surah,256,Current surah with Muqatta'at
+10,ا ل ر,ر,count_previous,Letter count in previous surah,412,Previous surah (surah 9)
+10,ا ل ر,ر,count_all_previous,Letter count in all previous surahs,3889,All surahs before current (surahs 1-9)
+10,ا ل ر,ر,count_next,Letter count in next surah,324,Next surah (surah 11)
+10,ا ل ر,ر,count_all_after,Letter count in all subsequent surahs,8262,All surahs after current (surahs 11-114)
+10,ا ل ر,ر,ratio_current,Letter ratio in current surah (count/total),0.03319502074688797,Current surah with Muqatta'at
+10,ا ل ر,ر,ratio_previous,Letter ratio in previous surah (count/total),0.03653777935438099,Previous surah (surah 9)
+10,ا ل ر,ر,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.03370630704027596,All surahs before current (surahs 1-9)
+10,ا ل ر,ر,ratio_next,Letter ratio in next surah (count/total),0.0407495912463841,Next surah (surah 11)
+10,ا ل ر,ر,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.03896140642094541,All surahs after current (surahs 11-114)
+10,ا ل ر,ر,diff_vs_previous,Difference between current and previous surah ratios,-0.0033427586074930224,Current vs Previous surah ratio difference
+10,ا ل ر,ر,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0005112862933879941,Current vs All Previous surahs ratio difference
+10,ا ل ر,ر,diff_vs_next,Difference between current and next surah ratios,-0.0075545704994961355,Current vs Next surah ratio difference
+10,ا ل ر,ر,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.005766385674057441,Current vs All Subsequent surahs ratio difference
+11,ا ل ر,ا,count_current,Letter count in current surah,980,Current surah with Muqatta'at
+11,ا ل ر,ا,count_previous,Letter count in previous surah,992,Previous surah (surah 10)
+11,ا ل ر,ا,count_all_previous,Letter count in all previous surahs,16125,All surahs before current (surahs 1-10)
+11,ا ل ر,ا,count_next,Letter count in next surah,937,Next surah (surah 12)
+11,ا ل ر,ا,count_all_after,Letter count in all subsequent surahs,26444,All surahs after current (surahs 12-114)
+11,ا ل ر,ا,ratio_current,Letter ratio in current surah (count/total),0.1232549364859766,Current surah with Muqatta'at
+11,ا ل ر,ا,ratio_previous,Letter ratio in previous surah (count/total),0.12863070539419086,Previous surah (surah 10)
+11,ا ل ر,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.13100064180159393,All surahs before current (surahs 1-10)
+11,ا ل ر,ا,ratio_next,Letter ratio in next surah (count/total),0.12624629479924548,Next surah (surah 12)
+11,ا ل ر,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.12956076529237404,All surahs after current (surahs 12-114)
+11,ا ل ر,ا,diff_vs_previous,Difference between current and previous surah ratios,-0.005375768908214257,Current vs Previous surah ratio difference
+11,ا ل ر,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0077457053156173294,Current vs All Previous surahs ratio difference
+11,ا ل ر,ا,diff_vs_next,Difference between current and next surah ratios,-0.0029913583132688826,Current vs Next surah ratio difference
+11,ا ل ر,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.006305828806397434,Current vs All Subsequent surahs ratio difference
+11,ا ل ر,ل,count_current,Letter count in current surah,794,Current surah with Muqatta'at
+11,ا ل ر,ل,count_previous,Letter count in previous surah,913,Previous surah (surah 10)
+11,ا ل ر,ل,count_all_previous,Letter count in all previous surahs,14424,All surahs before current (surahs 1-10)
+11,ا ل ر,ل,count_next,Letter count in next surah,810,Next surah (surah 12)
+11,ا ل ر,ل,count_all_after,Letter count in all subsequent surahs,22982,All surahs after current (surahs 12-114)
+11,ا ل ر,ل,ratio_current,Letter ratio in current surah (count/total),0.09986165262231166,Current surah with Muqatta'at
+11,ا ل ر,ل,ratio_previous,Letter ratio in previous surah (count/total),0.11838692946058091,Previous surah (surah 10)
+11,ا ل ر,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.11718159735480255,All surahs before current (surahs 1-10)
+11,ا ل ر,ل,ratio_next,Letter ratio in next surah (count/total),0.10913500404203719,Next surah (surah 12)
+11,ا ل ر,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.11259890742509983,All surahs after current (surahs 12-114)
+11,ا ل ر,ل,diff_vs_previous,Difference between current and previous surah ratios,-0.018525276838269253,Current vs Previous surah ratio difference
+11,ا ل ر,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.01731994473249089,Current vs All Previous surahs ratio difference
+11,ا ل ر,ل,diff_vs_next,Difference between current and next surah ratios,-0.009273351419725531,Current vs Next surah ratio difference
+11,ا ل ر,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.012737254802788173,Current vs All Subsequent surahs ratio difference
+11,ا ل ر,ر,count_current,Letter count in current surah,324,Current surah with Muqatta'at
+11,ا ل ر,ر,count_previous,Letter count in previous surah,256,Previous surah (surah 10)
+11,ا ل ر,ر,count_all_previous,Letter count in all previous surahs,4145,All surahs before current (surahs 1-10)
+11,ا ل ر,ر,count_next,Letter count in next surah,256,Next surah (surah 12)
+11,ا ل ر,ر,count_all_after,Letter count in all subsequent surahs,7938,All surahs after current (surahs 12-114)
+11,ا ل ر,ر,ratio_current,Letter ratio in current surah (count/total),0.0407495912463841,Current surah with Muqatta'at
+11,ا ل ر,ر,ratio_previous,Letter ratio in previous surah (count/total),0.03319502074688797,Previous surah (surah 10)
+11,ا ل ر,ر,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.03367427350496787,All surahs before current (surahs 1-10)
+11,ا ل ر,ر,ratio_next,Letter ratio in next surah (count/total),0.034492050660199405,Next surah (surah 12)
+11,ا ل ر,ر,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.038891746894980525,All surahs after current (surahs 12-114)
+11,ا ل ر,ر,diff_vs_previous,Difference between current and previous surah ratios,0.0075545704994961355,Current vs Previous surah ratio difference
+11,ا ل ر,ر,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.007075317741416232,Current vs All Previous surahs ratio difference
+11,ا ل ر,ر,diff_vs_next,Difference between current and next surah ratios,0.006257540586184697,Current vs Next surah ratio difference
+11,ا ل ر,ر,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.0018578443514035772,Current vs All Subsequent surahs ratio difference
+12,ا ل ر,ا,count_current,Letter count in current surah,937,Current surah with Muqatta'at
+12,ا ل ر,ا,count_previous,Letter count in previous surah,980,Previous surah (surah 11)
+12,ا ل ر,ا,count_all_previous,Letter count in all previous surahs,17105,All surahs before current (surahs 1-11)
+12,ا ل ر,ا,count_next,Letter count in next surah,470,Next surah (surah 13)
+12,ا ل ر,ا,count_all_after,Letter count in all subsequent surahs,25507,All surahs after current (surahs 13-114)
+12,ا ل ر,ا,ratio_current,Letter ratio in current surah (count/total),0.12624629479924548,Current surah with Muqatta'at
+12,ا ل ر,ا,ratio_previous,Letter ratio in previous surah (count/total),0.1232549364859766,Previous surah (surah 11)
+12,ا ل ر,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.13053066955632545,All surahs before current (surahs 1-11)
+12,ا ل ر,ا,ratio_next,Letter ratio in next surah (count/total),0.12979839823253245,Next surah (surah 13)
+12,ا ل ر,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.1296858396506053,All surahs after current (surahs 13-114)
+12,ا ل ر,ا,diff_vs_previous,Difference between current and previous surah ratios,0.0029913583132688826,Current vs Previous surah ratio difference
+12,ا ل ر,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.004284374757079962,Current vs All Previous surahs ratio difference
+12,ا ل ر,ا,diff_vs_next,Difference between current and next surah ratios,-0.0035521034332869628,Current vs Next surah ratio difference
+12,ا ل ر,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.003439544851359805,Current vs All Subsequent surahs ratio difference
+12,ا ل ر,ل,count_current,Letter count in current surah,810,Current surah with Muqatta'at
+12,ا ل ر,ل,count_previous,Letter count in previous surah,794,Previous surah (surah 11)
+12,ا ل ر,ل,count_all_previous,Letter count in all previous surahs,15218,All surahs before current (surahs 1-11)
+12,ا ل ر,ل,count_next,Letter count in next surah,479,Next surah (surah 13)
+12,ا ل ر,ل,count_all_after,Letter count in all subsequent surahs,22172,All surahs after current (surahs 13-114)
+12,ا ل ر,ل,ratio_current,Letter ratio in current surah (count/total),0.10913500404203719,Current surah with Muqatta'at
+12,ا ل ر,ل,ratio_previous,Letter ratio in previous surah (count/total),0.09986165262231166,Previous surah (surah 11)
+12,ا ل ر,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.11613070618580303,All surahs before current (surahs 1-11)
+12,ا ل ر,ل,ratio_next,Letter ratio in next surah (count/total),0.13228389947528307,Next surah (surah 13)
+12,ا ل ر,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.11272962076030973,All surahs after current (surahs 13-114)
+12,ا ل ر,ل,diff_vs_previous,Difference between current and previous surah ratios,0.009273351419725531,Current vs Previous surah ratio difference
+12,ا ل ر,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.006995702143765839,Current vs All Previous surahs ratio difference
+12,ا ل ر,ل,diff_vs_next,Difference between current and next surah ratios,-0.023148895433245886,Current vs Next surah ratio difference
+12,ا ل ر,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0035946167182725475,Current vs All Subsequent surahs ratio difference
+12,ا ل ر,ر,count_current,Letter count in current surah,256,Current surah with Muqatta'at
+12,ا ل ر,ر,count_previous,Letter count in previous surah,324,Previous surah (surah 11)
+12,ا ل ر,ر,count_all_previous,Letter count in all previous surahs,4469,All surahs before current (surahs 1-11)
+12,ا ل ر,ر,count_next,Letter count in next surah,136,Next surah (surah 13)
+12,ا ل ر,ر,count_all_after,Letter count in all subsequent surahs,7682,All surahs after current (surahs 13-114)
+12,ا ل ر,ر,ratio_current,Letter ratio in current surah (count/total),0.034492050660199405,Current surah with Muqatta'at
+12,ا ل ر,ر,ratio_previous,Letter ratio in previous surah (count/total),0.0407495912463841,Previous surah (surah 11)
+12,ا ل ر,ر,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.034103569847835045,All surahs before current (surahs 1-11)
+12,ا ل ر,ر,ratio_next,Letter ratio in next surah (count/total),0.03755868544600939,Next surah (surah 13)
+12,ا ل ر,ر,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.03905777316799113,All surahs after current (surahs 13-114)
+12,ا ل ر,ر,diff_vs_previous,Difference between current and previous surah ratios,-0.006257540586184697,Current vs Previous surah ratio difference
+12,ا ل ر,ر,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0003884808123643599,Current vs All Previous surahs ratio difference
+12,ا ل ر,ر,diff_vs_next,Difference between current and next surah ratios,-0.003066634785809985,Current vs Next surah ratio difference
+12,ا ل ر,ر,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0045657225077917266,Current vs All Subsequent surahs ratio difference
+13,ا ل م ر,ا,count_current,Letter count in current surah,470,Current surah with Muqatta'at
+13,ا ل م ر,ا,count_previous,Letter count in previous surah,937,Previous surah (surah 12)
+13,ا ل م ر,ا,count_all_previous,Letter count in all previous surahs,18042,All surahs before current (surahs 1-12)
+13,ا ل م ر,ا,count_next,Letter count in next surah,455,Next surah (surah 14)
+13,ا ل م ر,ا,count_all_after,Letter count in all subsequent surahs,25037,All surahs after current (surahs 14-114)
+13,ا ل م ر,ا,ratio_current,Letter ratio in current surah (count/total),0.12979839823253245,Current surah with Muqatta'at
+13,ا ل م ر,ا,ratio_previous,Letter ratio in previous surah (count/total),0.12624629479924548,Previous surah (surah 12)
+13,ا ل م ر,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.1303010168708112,All surahs before current (surahs 1-12)
+13,ا ل م ر,ا,ratio_next,Letter ratio in next surah (count/total),0.12656467315716272,Next surah (surah 14)
+13,ا ل م ر,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.1296837285431623,All surahs after current (surahs 14-114)
+13,ا ل م ر,ا,diff_vs_previous,Difference between current and previous surah ratios,0.0035521034332869628,Current vs Previous surah ratio difference
+13,ا ل م ر,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0005026186382787456,Current vs All Previous surahs ratio difference
+13,ا ل م ر,ا,diff_vs_next,Difference between current and next surah ratios,0.003233725075369731,Current vs Next surah ratio difference
+13,ا ل م ر,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.00011466968937015598,Current vs All Subsequent surahs ratio difference
+13,ا ل م ر,ل,count_current,Letter count in current surah,479,Current surah with Muqatta'at
+13,ا ل م ر,ل,count_previous,Letter count in previous surah,810,Previous surah (surah 12)
+13,ا ل م ر,ل,count_all_previous,Letter count in all previous surahs,16028,All surahs before current (surahs 1-12)
+13,ا ل م ر,ل,count_next,Letter count in next surah,450,Next surah (surah 14)
+13,ا ل م ر,ل,count_all_after,Letter count in all subsequent surahs,21693,All surahs after current (surahs 14-114)
+13,ا ل م ر,ل,ratio_current,Letter ratio in current surah (count/total),0.13228389947528307,Current surah with Muqatta'at
+13,ا ل م ر,ل,ratio_previous,Letter ratio in previous surah (count/total),0.10913500404203719,Previous surah (surah 12)
+13,ا ل م ر,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.11575571989831292,All surahs before current (surahs 1-12)
+13,ا ل م ر,ل,ratio_next,Letter ratio in next surah (count/total),0.12517385257301808,Next surah (surah 14)
+13,ا ل م ر,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.11236286788700003,All surahs after current (surahs 14-114)
+13,ا ل م ر,ل,diff_vs_previous,Difference between current and previous surah ratios,0.023148895433245886,Current vs Previous surah ratio difference
+13,ا ل م ر,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.016528179576970156,Current vs All Previous surahs ratio difference
+13,ا ل م ر,ل,diff_vs_next,Difference between current and next surah ratios,0.007110046902264994,Current vs Next surah ratio difference
+13,ا ل م ر,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.01992103158828304,Current vs All Subsequent surahs ratio difference
+13,ا ل م ر,م,count_current,Letter count in current surah,258,Current surah with Muqatta'at
+13,ا ل م ر,م,count_previous,Letter count in previous surah,488,Previous surah (surah 12)
+13,ا ل م ر,م,count_all_previous,Letter count in all previous surahs,11271,All surahs before current (surahs 1-12)
+13,ا ل م ر,م,count_next,Letter count in next surah,303,Next surah (surah 14)
+13,ا ل م ر,م,count_all_after,Letter count in all subsequent surahs,15220,All surahs after current (surahs 14-114)
+13,ا ل م ر,م,ratio_current,Letter ratio in current surah (count/total),0.07125103562551781,Current surah with Muqatta'at
+13,ا ل م ر,م,ratio_previous,Letter ratio in previous surah (count/total),0.06575047157100512,Previous surah (surah 12)
+13,ا ل م ر,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.08140021955165241,All surahs before current (surahs 1-12)
+13,ا ل م ر,م,ratio_next,Letter ratio in next surah (count/total),0.08428372739916551,Next surah (surah 14)
+13,ا ل م ر,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07883477846494909,All surahs after current (surahs 14-114)
+13,ا ل م ر,م,diff_vs_previous,Difference between current and previous surah ratios,0.0055005640545126855,Current vs Previous surah ratio difference
+13,ا ل م ر,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.010149183926134606,Current vs All Previous surahs ratio difference
+13,ا ل م ر,م,diff_vs_next,Difference between current and next surah ratios,-0.0130326917736477,Current vs Next surah ratio difference
+13,ا ل م ر,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.007583742839431279,Current vs All Subsequent surahs ratio difference
+13,ا ل م ر,ر,count_current,Letter count in current surah,136,Current surah with Muqatta'at
+13,ا ل م ر,ر,count_previous,Letter count in previous surah,256,Previous surah (surah 12)
+13,ا ل م ر,ر,count_all_previous,Letter count in all previous surahs,4725,All surahs before current (surahs 1-12)
+13,ا ل م ر,ر,count_next,Letter count in next surah,159,Next surah (surah 14)
+13,ا ل م ر,ر,count_all_after,Letter count in all subsequent surahs,7546,All surahs after current (surahs 14-114)
+13,ا ل م ر,ر,ratio_current,Letter ratio in current surah (count/total),0.03755868544600939,Current surah with Muqatta'at
+13,ا ل م ر,ر,ratio_previous,Letter ratio in previous surah (count/total),0.034492050660199405,Previous surah (surah 12)
+13,ا ل م ر,ر,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.03412439334411833,All surahs before current (surahs 1-12)
+13,ا ل م ر,ر,ratio_next,Letter ratio in next surah (count/total),0.04422809457579972,Next surah (surah 14)
+13,ا ل م ر,ر,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.039085889506997755,All surahs after current (surahs 14-114)
+13,ا ل م ر,ر,diff_vs_previous,Difference between current and previous surah ratios,0.003066634785809985,Current vs Previous surah ratio difference
+13,ا ل م ر,ر,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0034342921018910635,Current vs All Previous surahs ratio difference
+13,ا ل م ر,ر,diff_vs_next,Difference between current and next surah ratios,-0.006669409129790332,Current vs Next surah ratio difference
+13,ا ل م ر,ر,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0015272040609883644,Current vs All Subsequent surahs ratio difference
+14,ا ل ر,ا,count_current,Letter count in current surah,455,Current surah with Muqatta'at
+14,ا ل ر,ا,count_previous,Letter count in previous surah,470,Previous surah (surah 13)
+14,ا ل ر,ا,count_all_previous,Letter count in all previous surahs,18512,All surahs before current (surahs 1-13)
+14,ا ل ر,ا,count_next,Letter count in next surah,374,Next surah (surah 15)
+14,ا ل ر,ا,count_all_after,Letter count in all subsequent surahs,24582,All surahs after current (surahs 15-114)
+14,ا ل ر,ا,ratio_current,Letter ratio in current surah (count/total),0.12656467315716272,Current surah with Muqatta'at
+14,ا ل ر,ا,ratio_previous,Letter ratio in previous surah (count/total),0.12979839823253245,Previous surah (surah 13)
+14,ا ل ر,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.1302882077629588,All surahs before current (surahs 1-13)
+14,ا ل ر,ا,ratio_next,Letter ratio in next surah (count/total),0.12927756653992395,Next surah (surah 15)
+14,ا ل ر,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.12974291037489377,All surahs after current (surahs 15-114)
+14,ا ل ر,ا,diff_vs_previous,Difference between current and previous surah ratios,-0.003233725075369731,Current vs Previous surah ratio difference
+14,ا ل ر,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0037235346057960805,Current vs All Previous surahs ratio difference
+14,ا ل ر,ا,diff_vs_next,Difference between current and next surah ratios,-0.0027128933827612334,Current vs Next surah ratio difference
+14,ا ل ر,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.003178237217731056,Current vs All Subsequent surahs ratio difference
+14,ا ل ر,ل,count_current,Letter count in current surah,450,Current surah with Muqatta'at
+14,ا ل ر,ل,count_previous,Letter count in previous surah,479,Previous surah (surah 13)
+14,ا ل ر,ل,count_all_previous,Letter count in all previous surahs,16507,All surahs before current (surahs 1-13)
+14,ا ل ر,ل,count_next,Letter count in next surah,321,Next surah (surah 15)
+14,ا ل ر,ل,count_all_after,Letter count in all subsequent surahs,21243,All surahs after current (surahs 15-114)
+14,ا ل ر,ل,ratio_current,Letter ratio in current surah (count/total),0.12517385257301808,Current surah with Muqatta'at
+14,ا ل ر,ل,ratio_previous,Letter ratio in previous surah (count/total),0.13228389947528307,Previous surah (surah 13)
+14,ا ل ر,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.11617693634092269,All surahs before current (surahs 1-13)
+14,ا ل ر,ل,ratio_next,Letter ratio in next surah (count/total),0.11095748358105773,Next surah (surah 15)
+14,ا ل ر,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.11211978867032253,All surahs after current (surahs 15-114)
+14,ا ل ر,ل,diff_vs_previous,Difference between current and previous surah ratios,-0.007110046902264994,Current vs Previous surah ratio difference
+14,ا ل ر,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.008996916232095392,Current vs All Previous surahs ratio difference
+14,ا ل ر,ل,diff_vs_next,Difference between current and next surah ratios,0.014216368991960354,Current vs Next surah ratio difference
+14,ا ل ر,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.013054063902695548,Current vs All Subsequent surahs ratio difference
+14,ا ل ر,ر,count_current,Letter count in current surah,159,Current surah with Muqatta'at
+14,ا ل ر,ر,count_previous,Letter count in previous surah,136,Previous surah (surah 13)
+14,ا ل ر,ر,count_all_previous,Letter count in all previous surahs,4861,All surahs before current (surahs 1-13)
+14,ا ل ر,ر,count_next,Letter count in next surah,95,Next surah (surah 15)
+14,ا ل ر,ر,count_all_after,Letter count in all subsequent surahs,7387,All surahs after current (surahs 15-114)
+14,ا ل ر,ر,ratio_current,Letter ratio in current surah (count/total),0.04422809457579972,Current surah with Muqatta'at
+14,ا ل ر,ر,ratio_previous,Letter ratio in previous surah (count/total),0.03755868544600939,Previous surah (surah 13)
+14,ا ل ر,ر,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.034211915402751876,All surahs before current (surahs 1-13)
+14,ا ل ر,ر,ratio_next,Letter ratio in next surah (count/total),0.032837884548911164,Next surah (surah 15)
+14,ا ل ر,ر,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.03898831986572859,All surahs after current (surahs 15-114)
+14,ا ل ر,ر,diff_vs_previous,Difference between current and previous surah ratios,0.006669409129790332,Current vs Previous surah ratio difference
+14,ا ل ر,ر,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.010016179173047847,Current vs All Previous surahs ratio difference
+14,ا ل ر,ر,diff_vs_next,Difference between current and next surah ratios,0.011390210026888559,Current vs Next surah ratio difference
+14,ا ل ر,ر,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.0052397747100711295,Current vs All Subsequent surahs ratio difference
+15,ا ل ر,ا,count_current,Letter count in current surah,374,Current surah with Muqatta'at
+15,ا ل ر,ا,count_previous,Letter count in previous surah,455,Previous surah (surah 14)
+15,ا ل ر,ا,count_all_previous,Letter count in all previous surahs,18967,All surahs before current (surahs 1-14)
+15,ا ل ر,ا,count_next,Letter count in next surah,958,Next surah (surah 16)
+15,ا ل ر,ا,count_all_after,Letter count in all subsequent surahs,24208,All surahs after current (surahs 16-114)
+15,ا ل ر,ا,ratio_current,Letter ratio in current surah (count/total),0.12927756653992395,Current surah with Muqatta'at
+15,ا ل ر,ا,ratio_previous,Letter ratio in previous surah (count/total),0.12656467315716272,Previous surah (surah 14)
+15,ا ل ر,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.13019632070291048,All surahs before current (surahs 1-14)
+15,ا ل ر,ا,ratio_next,Letter ratio in next surah (count/total),0.12056380568839668,Next surah (surah 16)
+15,ا ل ر,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.129750125955385,All surahs after current (surahs 16-114)
+15,ا ل ر,ا,diff_vs_previous,Difference between current and previous surah ratios,0.0027128933827612334,Current vs Previous surah ratio difference
+15,ا ل ر,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0009187541629865348,Current vs All Previous surahs ratio difference
+15,ا ل ر,ا,diff_vs_next,Difference between current and next surah ratios,0.008713760851527266,Current vs Next surah ratio difference
+15,ا ل ر,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.00047255941546103797,Current vs All Subsequent surahs ratio difference
+15,ا ل ر,ل,count_current,Letter count in current surah,321,Current surah with Muqatta'at
+15,ا ل ر,ل,count_previous,Letter count in previous surah,450,Previous surah (surah 14)
+15,ا ل ر,ل,count_all_previous,Letter count in all previous surahs,16957,All surahs before current (surahs 1-14)
+15,ا ل ر,ل,count_next,Letter count in next surah,986,Next surah (surah 16)
+15,ا ل ر,ل,count_all_after,Letter count in all subsequent surahs,20922,All surahs after current (surahs 16-114)
+15,ا ل ر,ل,ratio_current,Letter ratio in current surah (count/total),0.11095748358105773,Current surah with Muqatta'at
+15,ا ل ر,ل,ratio_previous,Letter ratio in previous surah (count/total),0.12517385257301808,Previous surah (surah 14)
+15,ا ل ر,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.11639895661724327,All surahs before current (surahs 1-14)
+15,ا ل ر,ل,ratio_next,Letter ratio in next surah (count/total),0.12408759124087591,Next surah (surah 16)
+15,ا ل ر,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.11213781127059505,All surahs after current (surahs 16-114)
+15,ا ل ر,ل,diff_vs_previous,Difference between current and previous surah ratios,-0.014216368991960354,Current vs Previous surah ratio difference
+15,ا ل ر,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.005441473036185543,Current vs All Previous surahs ratio difference
+15,ا ل ر,ل,diff_vs_next,Difference between current and next surah ratios,-0.013130107659818188,Current vs Next surah ratio difference
+15,ا ل ر,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.001180327689537325,Current vs All Subsequent surahs ratio difference
+15,ا ل ر,ر,count_current,Letter count in current surah,95,Current surah with Muqatta'at
+15,ا ل ر,ر,count_previous,Letter count in previous surah,159,Previous surah (surah 14)
+15,ا ل ر,ر,count_all_previous,Letter count in all previous surahs,5020,All surahs before current (surahs 1-14)
+15,ا ل ر,ر,count_next,Letter count in next surah,287,Next surah (surah 16)
+15,ا ل ر,ر,count_all_after,Letter count in all subsequent surahs,7292,All surahs after current (surahs 16-114)
+15,ا ل ر,ر,ratio_current,Letter ratio in current surah (count/total),0.032837884548911164,Current surah with Muqatta'at
+15,ا ل ر,ر,ratio_previous,Letter ratio in previous surah (count/total),0.04422809457579972,Previous surah (surah 14)
+15,ا ل ر,ر,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.034459088412959915,All surahs before current (surahs 1-14)
+15,ا ل ر,ر,ratio_next,Letter ratio in next surah (count/total),0.036118801912912155,Next surah (surah 16)
+15,ا ل ر,ر,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.03908368797367264,All surahs after current (surahs 16-114)
+15,ا ل ر,ر,diff_vs_previous,Difference between current and previous surah ratios,-0.011390210026888559,Current vs Previous surah ratio difference
+15,ا ل ر,ر,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0016212038640487508,Current vs All Previous surahs ratio difference
+15,ا ل ر,ر,diff_vs_next,Difference between current and next surah ratios,-0.0032809173640009903,Current vs Next surah ratio difference
+15,ا ل ر,ر,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.006245803424761477,Current vs All Subsequent surahs ratio difference
+19,ك ه ي ع ص,ك,count_current,Letter count in current surah,138,Current surah with Muqatta'at
+19,ك ه ي ع ص,ك,count_previous,Letter count in previous surah,173,Previous surah (surah 18)
+19,ك ه ي ع ص,ك,count_all_previous,Letter count in all previous surahs,5452,All surahs before current (surahs 1-18)
+19,ك ه ي ع ص,ك,count_next,Letter count in next surah,180,Next surah (surah 20)
+19,ك ه ي ع ص,ك,count_all_after,Letter count in all subsequent surahs,4908,All surahs after current (surahs 20-114)
+19,ك ه ي ع ص,ك,ratio_current,Letter ratio in current surah (count/total),0.03468208092485549,Current surah with Muqatta'at
+19,ك ه ي ع ص,ك,ratio_previous,Letter ratio in previous surah (count/total),0.026128983537230026,Previous surah (surah 18)
+19,ك ه ي ع ص,ك,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.03209607629588202,All surahs before current (surahs 1-18)
+19,ك ه ي ع ص,ك,ratio_next,Letter ratio in next surah (count/total),0.033003300330033,Next surah (surah 20)
+19,ك ه ي ع ص,ك,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.030427208421418078,All surahs after current (surahs 20-114)
+19,ك ه ي ع ص,ك,diff_vs_previous,Difference between current and previous surah ratios,0.008553097387625462,Current vs Previous surah ratio difference
+19,ك ه ي ع ص,ك,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0025860046289734664,Current vs All Previous surahs ratio difference
+19,ك ه ي ع ص,ك,diff_vs_next,Difference between current and next surah ratios,0.0016787805948224876,Current vs Next surah ratio difference
+19,ك ه ي ع ص,ك,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.00425487250343741,Current vs All Subsequent surahs ratio difference
+19,ك ه ي ع ص,ه,count_current,Letter count in current surah,149,Current surah with Muqatta'at
+19,ك ه ي ع ص,ه,count_previous,Letter count in previous surah,314,Previous surah (surah 18)
+19,ك ه ي ع ص,ه,count_all_previous,Letter count in all previous surahs,7621,All surahs before current (surahs 1-18)
+19,ك ه ي ع ص,ه,count_next,Letter count in next surah,215,Next surah (surah 20)
+19,ك ه ي ع ص,ه,count_all_after,Letter count in all subsequent surahs,7081,All surahs after current (surahs 20-114)
+19,ك ه ي ع ص,ه,ratio_current,Letter ratio in current surah (count/total),0.037446594621764265,Current surah with Muqatta'at
+19,ك ه ي ع ص,ه,ratio_previous,Letter ratio in previous surah (count/total),0.0474248602930071,Previous surah (surah 18)
+19,ك ه ي ع ص,ه,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.04486503988461425,All surahs before current (surahs 1-18)
+19,ك ه ي ع ص,ه,ratio_next,Letter ratio in next surah (count/total),0.03942060872753942,Next surah (surah 20)
+19,ك ه ي ع ص,ه,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.04389874955828472,All surahs after current (surahs 20-114)
+19,ك ه ي ع ص,ه,diff_vs_previous,Difference between current and previous surah ratios,-0.009978265671242832,Current vs Previous surah ratio difference
+19,ك ه ي ع ص,ه,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0074184452628499875,Current vs All Previous surahs ratio difference
+19,ك ه ي ع ص,ه,diff_vs_next,Difference between current and next surah ratios,-0.0019740141057751556,Current vs Next surah ratio difference
+19,ك ه ي ع ص,ه,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.006452154936520453,Current vs All Subsequent surahs ratio difference
+19,ك ه ي ع ص,ي,count_current,Letter count in current surah,313,Current surah with Muqatta'at
+19,ك ه ي ع ص,ي,count_previous,Letter count in previous surah,395,Previous surah (surah 18)
+19,ك ه ي ع ص,ي,count_all_previous,Letter count in all previous surahs,10963,All surahs before current (surahs 1-18)
+19,ك ه ي ع ص,ي,count_next,Letter count in next surah,362,Next surah (surah 20)
+19,ك ه ي ع ص,ي,count_all_after,Letter count in all subsequent surahs,10698,All surahs after current (surahs 20-114)
+19,ك ه ي ع ص,ي,ratio_current,Letter ratio in current surah (count/total),0.07866298064840412,Current surah with Muqatta'at
+19,ك ه ي ع ص,ي,ratio_previous,Letter ratio in previous surah (count/total),0.05965866183355988,Previous surah (surah 18)
+19,ك ه ي ع ص,ي,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.06453948723986695,All surahs before current (surahs 1-18)
+19,ك ه ي ع ص,ي,ratio_next,Letter ratio in next surah (count/total),0.06637330399706637,Next surah (surah 20)
+19,ك ه ي ع ص,ي,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.06632238706037706,All surahs after current (surahs 20-114)
+19,ك ه ي ع ص,ي,diff_vs_previous,Difference between current and previous surah ratios,0.019004318814844233,Current vs Previous surah ratio difference
+19,ك ه ي ع ص,ي,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.014123493408537163,Current vs All Previous surahs ratio difference
+19,ك ه ي ع ص,ي,diff_vs_next,Difference between current and next surah ratios,0.012289676651337747,Current vs Next surah ratio difference
+19,ك ه ي ع ص,ي,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.012340593588027055,Current vs All Subsequent surahs ratio difference
+19,ك ه ي ع ص,ع,count_current,Letter count in current surah,118,Current surah with Muqatta'at
+19,ك ه ي ع ص,ع,count_previous,Letter count in previous surah,206,Previous surah (surah 18)
+19,ك ه ي ع ص,ع,count_all_previous,Letter count in all previous surahs,4742,All surahs before current (surahs 1-18)
+19,ك ه ي ع ص,ع,count_next,Letter count in next surah,172,Next surah (surah 20)
+19,ك ه ي ع ص,ع,count_all_after,Letter count in all subsequent surahs,4547,All surahs after current (surahs 20-114)
+19,ك ه ي ع ص,ع,ratio_current,Letter ratio in current surah (count/total),0.029655692385021363,Current surah with Muqatta'at
+19,ك ه ي ع ص,ع,ratio_previous,Letter ratio in previous surah (count/total),0.031113124905603383,Previous surah (surah 18)
+19,ك ه ي ع ص,ع,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.027916286462779265,All surahs before current (surahs 1-18)
+19,ك ه ي ع ص,ع,ratio_next,Letter ratio in next surah (count/total),0.031536486982031535,Next surah (surah 20)
+19,ك ه ي ع ص,ع,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.028189184330111652,All surahs after current (surahs 20-114)
+19,ك ه ي ع ص,ع,diff_vs_previous,Difference between current and previous surah ratios,-0.00145743252058202,Current vs Previous surah ratio difference
+19,ك ه ي ع ص,ع,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.001739405922242098,Current vs All Previous surahs ratio difference
+19,ك ه ي ع ص,ع,diff_vs_next,Difference between current and next surah ratios,-0.001880794597010172,Current vs Next surah ratio difference
+19,ك ه ي ع ص,ع,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.0014665080549097105,Current vs All Subsequent surahs ratio difference
+19,ك ه ي ع ص,ص,count_current,Letter count in current surah,27,Current surah with Muqatta'at
+19,ك ه ي ع ص,ص,count_previous,Letter count in previous surah,45,Previous surah (surah 18)
+19,ك ه ي ع ص,ص,count_all_previous,Letter count in all previous surahs,1029,All surahs before current (surahs 1-18)
+19,ك ه ي ع ص,ص,count_next,Letter count in next surah,35,Next surah (surah 20)
+19,ك ه ي ع ص,ص,count_all_after,Letter count in all subsequent surahs,1019,All surahs after current (surahs 20-114)
+19,ك ه ي ع ص,ص,ratio_current,Letter ratio in current surah (count/total),0.006785624528776075,Current surah with Muqatta'at
+19,ك ه ي ع ص,ص,ratio_previous,Letter ratio in previous surah (count/total),0.006796556411418215,Previous surah (surah 18)
+19,ك ه ي ع ص,ص,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.006057751744032025,All surahs before current (surahs 1-18)
+19,ك ه ي ع ص,ص,ratio_next,Letter ratio in next surah (count/total),0.006417308397506418,Next surah (surah 20)
+19,ك ه ي ع ص,ص,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.006317303459948048,All surahs after current (surahs 20-114)
+19,ك ه ي ع ص,ص,diff_vs_previous,Difference between current and previous surah ratios,-1.0931882642140414e-05,Current vs Previous surah ratio difference
+19,ك ه ي ع ص,ص,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0007278727847440493,Current vs All Previous surahs ratio difference
+19,ك ه ي ع ص,ص,diff_vs_next,Difference between current and next surah ratios,0.0003683161312696571,Current vs Next surah ratio difference
+19,ك ه ي ع ص,ص,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.00046832106882802645,Current vs All Subsequent surahs ratio difference
+20,ط ه,ط,count_current,Letter count in current surah,29,Current surah with Muqatta'at
+20,ط ه,ط,count_previous,Letter count in previous surah,13,Previous surah (surah 19)
+20,ط ه,ط,count_all_previous,Letter count in all previous surahs,636,All surahs before current (surahs 1-19)
+20,ط ه,ط,count_next,Letter count in next surah,17,Next surah (surah 21)
+20,ط ه,ط,count_all_after,Letter count in all subsequent surahs,612,All surahs after current (surahs 21-114)
+20,ط ه,ط,ratio_current,Letter ratio in current surah (count/total),0.005317198386505317,Current surah with Muqatta'at
+20,ط ه,ط,ratio_previous,Letter ratio in previous surah (count/total),0.003267152550892184,Previous surah (surah 19)
+20,ط ه,ط,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.0036584524056050252,All surahs before current (surahs 1-19)
+20,ط ه,ط,ratio_next,Letter ratio in next surah (count/total),0.003299049097613041,Next surah (surah 21)
+20,ط ه,ط,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.0039268779395440455,All surahs after current (surahs 21-114)
+20,ط ه,ط,diff_vs_previous,Difference between current and previous surah ratios,0.002050045835613133,Current vs Previous surah ratio difference
+20,ط ه,ط,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0016587459809002916,Current vs All Previous surahs ratio difference
+20,ط ه,ط,diff_vs_next,Difference between current and next surah ratios,0.002018149288892276,Current vs Next surah ratio difference
+20,ط ه,ط,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.0013903204469612714,Current vs All Subsequent surahs ratio difference
+20,ط ه,ه,count_current,Letter count in current surah,215,Current surah with Muqatta'at
+20,ط ه,ه,count_previous,Letter count in previous surah,149,Previous surah (surah 19)
+20,ط ه,ه,count_all_previous,Letter count in all previous surahs,7770,All surahs before current (surahs 1-19)
+20,ط ه,ه,count_next,Letter count in next surah,263,Next surah (surah 21)
+20,ط ه,ه,count_all_after,Letter count in all subsequent surahs,6866,All surahs after current (surahs 21-114)
+20,ط ه,ه,ratio_current,Letter ratio in current surah (count/total),0.03942060872753942,Current surah with Muqatta'at
+20,ط ه,ه,ratio_previous,Letter ratio in previous surah (count/total),0.037446594621764265,Previous surah (surah 19)
+20,ط ه,ه,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.04469524401187271,All surahs before current (surahs 1-19)
+20,ط ه,ه,ratio_next,Letter ratio in next surah (count/total),0.05103823015718999,Next surah (surah 21)
+20,ط ه,ه,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.04405546394266245,All surahs after current (surahs 21-114)
+20,ط ه,ه,diff_vs_previous,Difference between current and previous surah ratios,0.0019740141057751556,Current vs Previous surah ratio difference
+20,ط ه,ه,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.005274635284333293,Current vs All Previous surahs ratio difference
+20,ط ه,ه,diff_vs_next,Difference between current and next surah ratios,-0.011617621429650567,Current vs Next surah ratio difference
+20,ط ه,ه,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.004634855215123031,Current vs All Subsequent surahs ratio difference
+26,ط س م,ط,count_current,Letter count in current surah,34,Current surah with Muqatta'at
+26,ط س م,ط,count_previous,Letter count in previous surah,11,Previous surah (surah 25)
+26,ط س م,ط,count_all_previous,Letter count in all previous surahs,764,All surahs before current (surahs 1-25)
+26,ط س م,ط,count_next,Letter count in next surah,28,Next surah (surah 27)
+26,ط س م,ط,count_all_after,Letter count in all subsequent surahs,479,All surahs after current (surahs 27-114)
+26,ط س م,ط,ratio_current,Letter ratio in current surah (count/total),0.006003884866678439,Current surah with Muqatta'at
+26,ط س م,ط,ratio_previous,Letter ratio in previous surah (count/total),0.0028118609406952966,Previous surah (surah 25)
+26,ط س م,ط,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.0037429696839052303,All surahs before current (surahs 1-25)
+26,ط س م,ط,ratio_next,Letter ratio in next surah (count/total),0.005779153766769866,Next surah (surah 27)
+26,ط س م,ط,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.0038207517069746666,All surahs after current (surahs 27-114)
+26,ط س م,ط,diff_vs_previous,Difference between current and previous surah ratios,0.0031920239259831426,Current vs Previous surah ratio difference
+26,ط س م,ط,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.002260915182773209,Current vs All Previous surahs ratio difference
+26,ط س م,ط,diff_vs_next,Difference between current and next surah ratios,0.00022473109990857332,Current vs Next surah ratio difference
+26,ط س م,ط,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.0021831331597037726,Current vs All Subsequent surahs ratio difference
+26,ط س م,س,count_current,Letter count in current surah,94,Current surah with Muqatta'at
+26,ط س م,س,count_previous,Letter count in previous surah,81,Previous surah (surah 25)
+26,ط س م,س,count_all_previous,Letter count in all previous surahs,3625,All surahs before current (surahs 1-25)
+26,ط س م,س,count_next,Letter count in next surah,94,Next surah (surah 27)
+26,ط س م,س,count_all_after,Letter count in all subsequent surahs,2297,All surahs after current (surahs 27-114)
+26,ط س م,س,ratio_current,Letter ratio in current surah (count/total),0.016598975807875685,Current surah with Muqatta'at
+26,ط س م,س,ratio_previous,Letter ratio in previous surah (count/total),0.020705521472392636,Previous surah (surah 25)
+26,ط س م,س,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.01775950929863411,All surahs before current (surahs 1-25)
+26,ط س م,س,ratio_next,Letter ratio in next surah (count/total),0.01940144478844169,Next surah (surah 27)
+26,ط س م,س,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.01832205985578457,All surahs after current (surahs 27-114)
+26,ط س م,س,diff_vs_previous,Difference between current and previous surah ratios,-0.0041065456645169515,Current vs Previous surah ratio difference
+26,ط س م,س,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0011605334907584253,Current vs All Previous surahs ratio difference
+26,ط س م,س,diff_vs_next,Difference between current and next surah ratios,-0.002802468980566006,Current vs Next surah ratio difference
+26,ط س م,س,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.001723084047908885,Current vs All Subsequent surahs ratio difference
+26,ط س م,م,count_current,Letter count in current surah,482,Current surah with Muqatta'at
+26,ط س م,م,count_previous,Letter count in previous surah,243,Previous surah (surah 25)
+26,ط س م,م,count_all_previous,Letter count in all previous surahs,16289,All surahs before current (surahs 1-25)
+26,ط س م,م,count_next,Letter count in next surah,396,Next surah (surah 27)
+26,ط س م,م,count_all_after,Letter count in all subsequent surahs,9978,All surahs after current (surahs 27-114)
+26,ط س م,م,ratio_current,Letter ratio in current surah (count/total),0.08511389722761788,Current surah with Muqatta'at
+26,ط س م,م,ratio_previous,Letter ratio in previous surah (count/total),0.062116564417177916,Previous surah (surah 25)
+26,ط س م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.07980266123184855,All surahs before current (surahs 1-25)
+26,ط س م,م,ratio_next,Letter ratio in next surah (count/total),0.08173374613003095,Next surah (surah 27)
+26,ط س م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07958968795864974,All surahs after current (surahs 27-114)
+26,ط س م,م,diff_vs_previous,Difference between current and previous surah ratios,0.02299733281043996,Current vs Previous surah ratio difference
+26,ط س م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.005311235995769326,Current vs All Previous surahs ratio difference
+26,ط س م,م,diff_vs_next,Difference between current and next surah ratios,0.0033801510975869226,Current vs Next surah ratio difference
+26,ط س م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.005524209268968142,Current vs All Subsequent surahs ratio difference
+27,ط س,ط,count_current,Letter count in current surah,28,Current surah with Muqatta'at
+27,ط س,ط,count_previous,Letter count in previous surah,34,Previous surah (surah 26)
+27,ط س,ط,count_all_previous,Letter count in all previous surahs,798,All surahs before current (surahs 1-26)
+27,ط س,ط,count_next,Letter count in next surah,20,Next surah (surah 28)
+27,ط س,ط,count_all_after,Letter count in all subsequent surahs,451,All surahs after current (surahs 28-114)
+27,ط س,ط,ratio_current,Letter ratio in current surah (count/total),0.005779153766769866,Current surah with Muqatta'at
+27,ط س,ط,ratio_previous,Letter ratio in previous surah (count/total),0.006003884866678439,Previous surah (surah 26)
+27,ط س,ط,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.0038040032605742235,All surahs before current (surahs 1-26)
+27,ط س,ط,ratio_next,Letter ratio in next surah (count/total),0.0033272334054233904,Next surah (surah 28)
+27,ط س,ط,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.003742024343901164,All surahs after current (surahs 28-114)
+27,ط س,ط,diff_vs_previous,Difference between current and previous surah ratios,-0.00022473109990857332,Current vs Previous surah ratio difference
+27,ط س,ط,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0019751505061956424,Current vs All Previous surahs ratio difference
+27,ط س,ط,diff_vs_next,Difference between current and next surah ratios,0.0024519203613464755,Current vs Next surah ratio difference
+27,ط س,ط,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.002037129422868702,Current vs All Subsequent surahs ratio difference
+27,ط س,س,count_current,Letter count in current surah,94,Current surah with Muqatta'at
+27,ط س,س,count_previous,Letter count in previous surah,94,Previous surah (surah 26)
+27,ط س,س,count_all_previous,Letter count in all previous surahs,3719,All surahs before current (surahs 1-26)
+27,ط س,س,count_next,Letter count in next surah,102,Next surah (surah 28)
+27,ط س,س,count_all_after,Letter count in all subsequent surahs,2203,All surahs after current (surahs 28-114)
+27,ط س,س,ratio_current,Letter ratio in current surah (count/total),0.01940144478844169,Current surah with Muqatta'at
+27,ط س,س,ratio_previous,Letter ratio in previous surah (count/total),0.016598975807875685,Previous surah (surah 26)
+27,ط س,س,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.017728180609117215,All surahs before current (surahs 1-26)
+27,ط س,س,ratio_next,Letter ratio in next surah (count/total),0.016968890367659292,Next surah (surah 28)
+27,ط س,س,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.018278668801805464,All surahs after current (surahs 28-114)
+27,ط س,س,diff_vs_previous,Difference between current and previous surah ratios,0.002802468980566006,Current vs Previous surah ratio difference
+27,ط س,س,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.001673264179324476,Current vs All Previous surahs ratio difference
+27,ط س,س,diff_vs_next,Difference between current and next surah ratios,0.0024325544207823985,Current vs Next surah ratio difference
+27,ط س,س,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.001122775986636227,Current vs All Subsequent surahs ratio difference
+28,ط س م,ط,count_current,Letter count in current surah,20,Current surah with Muqatta'at
+28,ط س م,ط,count_previous,Letter count in previous surah,28,Previous surah (surah 27)
+28,ط س م,ط,count_all_previous,Letter count in all previous surahs,826,All surahs before current (surahs 1-27)
+28,ط س م,ط,count_next,Letter count in next surah,17,Next surah (surah 29)
+28,ط س م,ط,count_all_after,Letter count in all subsequent surahs,431,All surahs after current (surahs 29-114)
+28,ط س م,ط,ratio_current,Letter ratio in current surah (count/total),0.0033272334054233904,Current surah with Muqatta'at
+28,ط س م,ط,ratio_previous,Letter ratio in previous surah (count/total),0.005779153766769866,Previous surah (surah 27)
+28,ط س م,ط,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.003848591024302967,All surahs before current (surahs 1-27)
+28,ط س م,ط,ratio_next,Letter ratio in next surah (count/total),0.0038777372262773723,Next surah (surah 29)
+28,ط س م,ط,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.003763797680592427,All surahs after current (surahs 29-114)
+28,ط س م,ط,diff_vs_previous,Difference between current and previous surah ratios,-0.0024519203613464755,Current vs Previous surah ratio difference
+28,ط س م,ط,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0005213576188795766,Current vs All Previous surahs ratio difference
+28,ط س م,ط,diff_vs_next,Difference between current and next surah ratios,-0.0005505038208539819,Current vs Next surah ratio difference
+28,ط س م,ط,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0004365642751690368,Current vs All Subsequent surahs ratio difference
+28,ط س م,س,count_current,Letter count in current surah,102,Current surah with Muqatta'at
+28,ط س م,س,count_previous,Letter count in previous surah,94,Previous surah (surah 27)
+28,ط س م,س,count_all_previous,Letter count in all previous surahs,3813,All surahs before current (surahs 1-27)
+28,ط س م,س,count_next,Letter count in next surah,70,Next surah (surah 29)
+28,ط س م,س,count_all_after,Letter count in all subsequent surahs,2101,All surahs after current (surahs 29-114)
+28,ط س م,س,ratio_current,Letter ratio in current surah (count/total),0.016968890367659292,Current surah with Muqatta'at
+28,ط س م,س,ratio_previous,Letter ratio in previous surah (count/total),0.01940144478844169,Previous surah (surah 27)
+28,ط س م,س,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.017765953481437304,All surahs before current (surahs 1-27)
+28,ط س م,س,ratio_next,Letter ratio in next surah (count/total),0.015967153284671534,Next surah (surah 29)
+28,ط س م,س,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.018347422104233617,All surahs after current (surahs 29-114)
+28,ط س م,س,diff_vs_previous,Difference between current and previous surah ratios,-0.0024325544207823985,Current vs Previous surah ratio difference
+28,ط س م,س,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.000797063113778012,Current vs All Previous surahs ratio difference
+28,ط س م,س,diff_vs_next,Difference between current and next surah ratios,0.001001737082987758,Current vs Next surah ratio difference
+28,ط س م,س,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0013785317365743247,Current vs All Subsequent surahs ratio difference
+28,ط س م,م,count_current,Letter count in current surah,458,Current surah with Muqatta'at
+28,ط س م,م,count_previous,Letter count in previous surah,396,Previous surah (surah 27)
+28,ط س م,م,count_all_previous,Letter count in all previous surahs,17167,All surahs before current (surahs 1-27)
+28,ط س م,م,count_next,Letter count in next surah,342,Next surah (surah 29)
+28,ط س م,م,count_all_after,Letter count in all subsequent surahs,9124,All surahs after current (surahs 29-114)
+28,ط س م,م,ratio_current,Letter ratio in current surah (count/total),0.07619364498419565,Current surah with Muqatta'at
+28,ط س م,م,ratio_previous,Letter ratio in previous surah (count/total),0.08173374613003095,Previous surah (surah 27)
+28,ط س م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.07998639481139108,All surahs before current (surahs 1-27)
+28,ط س م,م,ratio_next,Letter ratio in next surah (count/total),0.07801094890510948,Next surah (surah 29)
+28,ط س م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07967723906664803,All surahs after current (surahs 29-114)
+28,ط س م,م,diff_vs_previous,Difference between current and previous surah ratios,-0.005540101145835308,Current vs Previous surah ratio difference
+28,ط س م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.003792749827195435,Current vs All Previous surahs ratio difference
+28,ط س م,م,diff_vs_next,Difference between current and next surah ratios,-0.0018173039209138375,Current vs Next surah ratio difference
+28,ط س م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0034835940824523848,Current vs All Subsequent surahs ratio difference
+29,ا ل م,ا,count_current,Letter count in current surah,604,Current surah with Muqatta'at
+29,ا ل م,ا,count_previous,Letter count in previous surah,749,Previous surah (surah 28)
+29,ا ل م,ا,count_all_previous,Letter count in all previous surahs,28542,All surahs before current (surahs 1-28)
+29,ا ل م,ا,count_next,Letter count in next surah,415,Next surah (surah 30)
+29,ا ل م,ا,count_all_after,Letter count in all subsequent surahs,14403,All surahs after current (surahs 30-114)
+29,ا ل م,ا,ratio_current,Letter ratio in current surah (count/total),0.13777372262773724,Current surah with Muqatta'at
+29,ا ل م,ا,ratio_previous,Letter ratio in previous surah (count/total),0.12460489103310597,Previous surah (surah 28)
+29,ا ل م,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.12936297504928956,All surahs before current (surahs 1-28)
+29,ا ل م,ا,ratio_next,Letter ratio in next surah (count/total),0.1177639046538025,Next surah (surah 30)
+29,ا ل م,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.1307841784105768,All surahs after current (surahs 30-114)
+29,ا ل م,ا,diff_vs_previous,Difference between current and previous surah ratios,0.013168831594631267,Current vs Previous surah ratio difference
+29,ا ل م,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.008410747578447675,Current vs All Previous surahs ratio difference
+29,ا ل م,ا,diff_vs_next,Difference between current and next surah ratios,0.020009817973934738,Current vs Next surah ratio difference
+29,ا ل م,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.006989544217160443,Current vs All Subsequent surahs ratio difference
+29,ا ل م,ل,count_current,Letter count in current surah,551,Current surah with Muqatta'at
+29,ا ل م,ل,count_previous,Letter count in previous surah,664,Previous surah (surah 28)
+29,ا ل م,ل,count_all_previous,Letter count in all previous surahs,25305,All surahs before current (surahs 1-28)
+29,ا ل م,ل,count_next,Letter count in next surah,392,Next surah (surah 30)
+29,ا ل م,ل,count_all_after,Letter count in all subsequent surahs,12344,All surahs after current (surahs 30-114)
+29,ا ل م,ل,ratio_current,Letter ratio in current surah (count/total),0.12568430656934307,Current surah with Muqatta'at
+29,ا ل م,ل,ratio_previous,Letter ratio in previous surah (count/total),0.11046414906005657,Previous surah (surah 28)
+29,ا ل م,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.1146916853627031,All surahs before current (surahs 1-28)
+29,ا ل م,ل,ratio_next,Letter ratio in next surah (count/total),0.1112372304199773,Next surah (surah 30)
+29,ا ل م,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.11208775243353189,All surahs after current (surahs 30-114)
+29,ا ل م,ل,diff_vs_previous,Difference between current and previous surah ratios,0.0152201575092865,Current vs Previous surah ratio difference
+29,ا ل م,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.010992621206639963,Current vs All Previous surahs ratio difference
+29,ا ل م,ل,diff_vs_next,Difference between current and next surah ratios,0.014447076149365773,Current vs Next surah ratio difference
+29,ا ل م,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.013596554135811179,Current vs All Subsequent surahs ratio difference
+29,ا ل م,م,count_current,Letter count in current surah,342,Current surah with Muqatta'at
+29,ا ل م,م,count_previous,Letter count in previous surah,458,Previous surah (surah 28)
+29,ا ل م,م,count_all_previous,Letter count in all previous surahs,17625,All surahs before current (surahs 1-28)
+29,ا ل م,م,count_next,Letter count in next surah,315,Next surah (surah 30)
+29,ا ل م,م,count_all_after,Letter count in all subsequent surahs,8782,All surahs after current (surahs 30-114)
+29,ا ل م,م,ratio_current,Letter ratio in current surah (count/total),0.07801094890510948,Current surah with Muqatta'at
+29,ا ل م,م,ratio_previous,Letter ratio in previous surah (count/total),0.07619364498419565,Previous surah (surah 28)
+29,ا ل م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.07988306479026447,All surahs before current (surahs 1-28)
+29,ا ل م,م,ratio_next,Letter ratio in next surah (count/total),0.08938706015891033,Next surah (surah 30)
+29,ا ل م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.0797435711172454,All surahs after current (surahs 30-114)
+29,ا ل م,م,diff_vs_previous,Difference between current and previous surah ratios,0.0018173039209138375,Current vs Previous surah ratio difference
+29,ا ل م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0018721158851549846,Current vs All Previous surahs ratio difference
+29,ا ل م,م,diff_vs_next,Difference between current and next surah ratios,-0.01137611125380085,Current vs Next surah ratio difference
+29,ا ل م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0017326222121359092,Current vs All Subsequent surahs ratio difference
+30,ا ل م,ا,count_current,Letter count in current surah,415,Current surah with Muqatta'at
+30,ا ل م,ا,count_previous,Letter count in previous surah,604,Previous surah (surah 29)
+30,ا ل م,ا,count_all_previous,Letter count in all previous surahs,29146,All surahs before current (surahs 1-29)
+30,ا ل م,ا,count_next,Letter count in next surah,284,Next surah (surah 31)
+30,ا ل م,ا,count_all_after,Letter count in all subsequent surahs,13988,All surahs after current (surahs 31-114)
+30,ا ل م,ا,ratio_current,Letter ratio in current surah (count/total),0.1177639046538025,Current surah with Muqatta'at
+30,ا ل م,ا,ratio_previous,Letter ratio in previous surah (count/total),0.13777372262773724,Previous surah (surah 29)
+30,ا ل م,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.12952683995573708,All surahs before current (surahs 1-29)
+30,ا ل م,ا,ratio_next,Letter ratio in next surah (count/total),0.12856496152105024,Next surah (surah 31)
+30,ا ل م,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.13121458857078533,All surahs after current (surahs 31-114)
+30,ا ل م,ا,diff_vs_previous,Difference between current and previous surah ratios,-0.020009817973934738,Current vs Previous surah ratio difference
+30,ا ل م,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.011762935301934577,Current vs All Previous surahs ratio difference
+30,ا ل م,ا,diff_vs_next,Difference between current and next surah ratios,-0.010801056867247735,Current vs Next surah ratio difference
+30,ا ل م,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.013450683916982828,Current vs All Subsequent surahs ratio difference
+30,ا ل م,ل,count_current,Letter count in current surah,392,Current surah with Muqatta'at
+30,ا ل م,ل,count_previous,Letter count in previous surah,551,Previous surah (surah 29)
+30,ا ل م,ل,count_all_previous,Letter count in all previous surahs,25856,All surahs before current (surahs 1-29)
+30,ا ل م,ل,count_next,Letter count in next surah,296,Next surah (surah 31)
+30,ا ل م,ل,count_all_after,Letter count in all subsequent surahs,11952,All surahs after current (surahs 31-114)
+30,ا ل م,ل,ratio_current,Letter ratio in current surah (count/total),0.1112372304199773,Current surah with Muqatta'at
+30,ا ل م,ل,ratio_previous,Letter ratio in previous surah (count/total),0.12568430656934307,Previous surah (surah 29)
+30,ا ل م,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.11490585239468667,All surahs before current (surahs 1-29)
+30,ا ل م,ل,ratio_next,Letter ratio in next surah (count/total),0.1339972838388411,Next surah (surah 31)
+30,ا ل م,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.11211586807249259,All surahs after current (surahs 31-114)
+30,ا ل م,ل,diff_vs_previous,Difference between current and previous surah ratios,-0.014447076149365773,Current vs Previous surah ratio difference
+30,ا ل م,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0036686219747093796,Current vs All Previous surahs ratio difference
+30,ا ل م,ل,diff_vs_next,Difference between current and next surah ratios,-0.022760053418863807,Current vs Next surah ratio difference
+30,ا ل م,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0008786376525152934,Current vs All Subsequent surahs ratio difference
+30,ا ل م,م,count_current,Letter count in current surah,315,Current surah with Muqatta'at
+30,ا ل م,م,count_previous,Letter count in previous surah,342,Previous surah (surah 29)
+30,ا ل م,م,count_all_previous,Letter count in all previous surahs,17967,All surahs before current (surahs 1-29)
+30,ا ل م,م,count_next,Letter count in next surah,171,Next surah (surah 31)
+30,ا ل م,م,count_all_after,Letter count in all subsequent surahs,8467,All surahs after current (surahs 31-114)
+30,ا ل م,م,ratio_current,Letter ratio in current surah (count/total),0.08938706015891033,Current surah with Muqatta'at
+30,ا ل م,م,ratio_previous,Letter ratio in previous surah (count/total),0.07801094890510948,Previous surah (surah 29)
+30,ا ل م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.07984659073233816,All surahs before current (surahs 1-29)
+30,ا ل م,م,ratio_next,Letter ratio in next surah (count/total),0.07741059302851969,Next surah (surah 31)
+30,ا ل م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07942478706239917,All surahs after current (surahs 31-114)
+30,ا ل م,م,diff_vs_previous,Difference between current and previous surah ratios,0.01137611125380085,Current vs Previous surah ratio difference
+30,ا ل م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.009540469426572176,Current vs All Previous surahs ratio difference
+30,ا ل م,م,diff_vs_next,Difference between current and next surah ratios,0.011976467130390647,Current vs Next surah ratio difference
+30,ا ل م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.009962273096511168,Current vs All Subsequent surahs ratio difference
+31,ا ل م,ا,count_current,Letter count in current surah,284,Current surah with Muqatta'at
+31,ا ل م,ا,count_previous,Letter count in previous surah,415,Previous surah (surah 30)
+31,ا ل م,ا,count_all_previous,Letter count in all previous surahs,29561,All surahs before current (surahs 1-30)
+31,ا ل م,ا,count_next,Letter count in next surah,206,Next surah (surah 32)
+31,ا ل م,ا,count_all_after,Letter count in all subsequent surahs,13704,All surahs after current (surahs 32-114)
+31,ا ل م,ا,ratio_current,Letter ratio in current surah (count/total),0.12856496152105024,Current surah with Muqatta'at
+31,ا ل م,ا,ratio_previous,Letter ratio in previous surah (count/total),0.1177639046538025,Previous surah (surah 30)
+31,ا ل م,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.12934546234187877,All surahs before current (surahs 1-30)
+31,ا ل م,ا,ratio_next,Letter ratio in next surah (count/total),0.1301326595072647,Next surah (surah 32)
+31,ا ل م,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.13127065472484314,All surahs after current (surahs 32-114)
+31,ا ل م,ا,diff_vs_previous,Difference between current and previous surah ratios,0.010801056867247735,Current vs Previous surah ratio difference
+31,ا ل م,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0007805008208285336,Current vs All Previous surahs ratio difference
+31,ا ل م,ا,diff_vs_next,Difference between current and next surah ratios,-0.0015676979862144502,Current vs Next surah ratio difference
+31,ا ل م,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0027056932037929082,Current vs All Subsequent surahs ratio difference
+31,ا ل م,ل,count_current,Letter count in current surah,296,Current surah with Muqatta'at
+31,ا ل م,ل,count_previous,Letter count in previous surah,392,Previous surah (surah 30)
+31,ا ل م,ل,count_all_previous,Letter count in all previous surahs,26248,All surahs before current (surahs 1-30)
+31,ا ل م,ل,count_next,Letter count in next surah,152,Next surah (surah 32)
+31,ا ل م,ل,count_all_after,Letter count in all subsequent surahs,11656,All surahs after current (surahs 32-114)
+31,ا ل م,ل,ratio_current,Letter ratio in current surah (count/total),0.1339972838388411,Current surah with Muqatta'at
+31,ا ل م,ل,ratio_previous,Letter ratio in previous surah (count/total),0.1112372304199773,Previous surah (surah 30)
+31,ا ل م,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.11484928437974473,All surahs before current (surahs 1-30)
+31,ا ل م,ل,ratio_next,Letter ratio in next surah (count/total),0.09602021478205938,Next surah (surah 32)
+31,ا ل م,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.11165285693759279,All surahs after current (surahs 32-114)
+31,ا ل م,ل,diff_vs_previous,Difference between current and previous surah ratios,0.022760053418863807,Current vs Previous surah ratio difference
+31,ا ل م,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.01914799945909637,Current vs All Previous surahs ratio difference
+31,ا ل م,ل,diff_vs_next,Difference between current and next surah ratios,0.03797706905678172,Current vs Next surah ratio difference
+31,ا ل م,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.022344426901248313,Current vs All Subsequent surahs ratio difference
+31,ا ل م,م,count_current,Letter count in current surah,171,Current surah with Muqatta'at
+31,ا ل م,م,count_previous,Letter count in previous surah,315,Previous surah (surah 30)
+31,ا ل م,م,count_all_previous,Letter count in all previous surahs,18282,All surahs before current (surahs 1-30)
+31,ا ل م,م,count_next,Letter count in next surah,156,Next surah (surah 32)
+31,ا ل م,م,count_all_after,Letter count in all subsequent surahs,8296,All surahs after current (surahs 32-114)
+31,ا ل م,م,ratio_current,Letter ratio in current surah (count/total),0.07741059302851969,Current surah with Muqatta'at
+31,ا ل م,م,ratio_previous,Letter ratio in previous surah (count/total),0.08938706015891033,Previous surah (surah 30)
+31,ا ل م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.07999369921634003,All surahs before current (surahs 1-30)
+31,ا ل م,م,ratio_next,Letter ratio in next surah (count/total),0.09854706253948199,Next surah (surah 32)
+31,ا ل م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07946740744288519,All surahs after current (surahs 32-114)
+31,ا ل م,م,diff_vs_previous,Difference between current and previous surah ratios,-0.011976467130390647,Current vs Previous surah ratio difference
+31,ا ل م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0025831061878203443,Current vs All Previous surahs ratio difference
+31,ا ل م,م,diff_vs_next,Difference between current and next surah ratios,-0.021136469510962305,Current vs Next surah ratio difference
+31,ا ل م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0020568144143655043,Current vs All Subsequent surahs ratio difference
+32,ا ل م,ا,count_current,Letter count in current surah,206,Current surah with Muqatta'at
+32,ا ل م,ا,count_previous,Letter count in previous surah,284,Previous surah (surah 31)
+32,ا ل م,ا,count_all_previous,Letter count in all previous surahs,29845,All surahs before current (surahs 1-31)
+32,ا ل م,ا,count_next,Letter count in next surah,859,Next surah (surah 33)
+32,ا ل م,ا,count_all_after,Letter count in all subsequent surahs,13498,All surahs after current (surahs 33-114)
+32,ا ل م,ا,ratio_current,Letter ratio in current surah (count/total),0.1301326595072647,Current surah with Muqatta'at
+32,ا ل م,ا,ratio_previous,Letter ratio in previous surah (count/total),0.12856496152105024,Previous surah (surah 31)
+32,ا ل م,ا,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.12933799056996256,All surahs before current (surahs 1-31)
+32,ا ل م,ا,ratio_next,Letter ratio in next surah (count/total),0.14646206308610402,Next surah (surah 33)
+32,ا ل م,ا,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.131288176477454,All surahs after current (surahs 33-114)
+32,ا ل م,ا,diff_vs_previous,Difference between current and previous surah ratios,0.0015676979862144502,Current vs Previous surah ratio difference
+32,ا ل م,ا,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0007946689373021232,Current vs All Previous surahs ratio difference
+32,ا ل م,ا,diff_vs_next,Difference between current and next surah ratios,-0.01632940357883933,Current vs Next surah ratio difference
+32,ا ل م,ا,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.001155516970189313,Current vs All Subsequent surahs ratio difference
+32,ا ل م,ل,count_current,Letter count in current surah,152,Current surah with Muqatta'at
+32,ا ل م,ل,count_previous,Letter count in previous surah,296,Previous surah (surah 31)
+32,ا ل م,ل,count_all_previous,Letter count in all previous surahs,26544,All surahs before current (surahs 1-31)
+32,ا ل م,ل,count_next,Letter count in next surah,711,Next surah (surah 33)
+32,ا ل م,ل,count_all_after,Letter count in all subsequent surahs,11504,All surahs after current (surahs 33-114)
+32,ا ل م,ل,ratio_current,Letter ratio in current surah (count/total),0.09602021478205938,Current surah with Muqatta'at
+32,ا ل م,ل,ratio_previous,Letter ratio in previous surah (count/total),0.1339972838388411,Previous surah (surah 31)
+32,ا ل م,ل,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.11503258909998614,All surahs before current (surahs 1-31)
+32,ا ل م,ل,ratio_next,Letter ratio in next surah (count/total),0.12122762148337596,Next surah (surah 33)
+32,ا ل م,ل,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.11189355328171809,All surahs after current (surahs 33-114)
+32,ا ل م,ل,diff_vs_previous,Difference between current and previous surah ratios,-0.03797706905678172,Current vs Previous surah ratio difference
+32,ا ل م,ل,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.019012374317926753,Current vs All Previous surahs ratio difference
+32,ا ل م,ل,diff_vs_next,Difference between current and next surah ratios,-0.025207406701316576,Current vs Next surah ratio difference
+32,ا ل م,ل,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.015873338499658704,Current vs All Subsequent surahs ratio difference
+32,ا ل م,م,count_current,Letter count in current surah,156,Current surah with Muqatta'at
+32,ا ل م,م,count_previous,Letter count in previous surah,171,Previous surah (surah 31)
+32,ا ل م,م,count_all_previous,Letter count in all previous surahs,18453,All surahs before current (surahs 1-31)
+32,ا ل م,م,count_next,Letter count in next surah,418,Next surah (surah 33)
+32,ا ل م,م,count_all_after,Letter count in all subsequent surahs,8140,All surahs after current (surahs 33-114)
+32,ا ل م,م,ratio_current,Letter ratio in current surah (count/total),0.09854706253948199,Current surah with Muqatta'at
+32,ا ل م,م,ratio_previous,Letter ratio in previous surah (count/total),0.07741059302851969,Previous surah (surah 31)
+32,ا ل م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.07996897101650256,All surahs before current (surahs 1-31)
+32,ا ل م,م,ratio_next,Letter ratio in next surah (count/total),0.07127024722932651,Next surah (surah 33)
+32,ا ل م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07917363731860094,All surahs after current (surahs 33-114)
+32,ا ل م,م,diff_vs_previous,Difference between current and previous surah ratios,0.021136469510962305,Current vs Previous surah ratio difference
+32,ا ل م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.01857809152297943,Current vs All Previous surahs ratio difference
+32,ا ل م,م,diff_vs_next,Difference between current and next surah ratios,0.02727681531015548,Current vs Next surah ratio difference
+32,ا ل م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.01937342522088105,Current vs All Subsequent surahs ratio difference
+36,ي س,ي,count_current,Letter count in current surah,215,Current surah with Muqatta'at
+36,ي س,ي,count_previous,Letter count in previous surah,219,Previous surah (surah 35)
+36,ي س,ي,count_all_previous,Letter count in all previous surahs,16109,All surahs before current (surahs 1-35)
+36,ي س,ي,count_next,Letter count in next surah,238,Next surah (surah 37)
+36,ي س,ي,count_all_after,Letter count in all subsequent surahs,5650,All surahs after current (surahs 37-114)
+36,ي س,ي,ratio_current,Letter ratio in current surah (count/total),0.06953428201811125,Current surah with Muqatta'at
+36,ي س,ي,ratio_previous,Letter ratio in previous surah (count/total),0.06632344033918837,Previous surah (surah 35)
+36,ي س,ي,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.06571105735695434,All surahs before current (surahs 1-35)
+36,ي س,ي,ratio_next,Letter ratio in next surah (count/total),0.06083844580777096,Next surah (surah 37)
+36,ي س,ي,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.06501277242077647,All surahs after current (surahs 37-114)
+36,ي س,ي,diff_vs_previous,Difference between current and previous surah ratios,0.003210841678922882,Current vs Previous surah ratio difference
+36,ي س,ي,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.003823224661156907,Current vs All Previous surahs ratio difference
+36,ي س,ي,diff_vs_next,Difference between current and next surah ratios,0.008695836210340292,Current vs Next surah ratio difference
+36,ي س,ي,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.004521509597334786,Current vs All Subsequent surahs ratio difference
+36,ي س,س,count_current,Letter count in current surah,48,Current surah with Muqatta'at
+36,ي س,س,count_previous,Letter count in previous surah,66,Previous surah (surah 35)
+36,ي س,س,count_all_previous,Letter count in all previous surahs,4339,All surahs before current (surahs 1-35)
+36,ي س,س,count_next,Letter count in next surah,72,Next surah (surah 37)
+36,ي س,س,count_all_after,Letter count in all subsequent surahs,1629,All surahs after current (surahs 37-114)
+36,ي س,س,ratio_current,Letter ratio in current surah (count/total),0.015523932729624839,Current surah with Muqatta'at
+36,ي س,س,ratio_previous,Letter ratio in previous surah (count/total),0.019987886129618413,Previous surah (surah 35)
+36,ي س,س,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.017699439932449244,All surahs before current (surahs 1-35)
+36,ي س,س,ratio_next,Letter ratio in next surah (count/total),0.018404907975460124,Next surah (surah 37)
+36,ي س,س,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.018744390490875198,All surahs after current (surahs 37-114)
+36,ي س,س,diff_vs_previous,Difference between current and previous surah ratios,-0.004463953399993574,Current vs Previous surah ratio difference
+36,ي س,س,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.002175507202824405,Current vs All Previous surahs ratio difference
+36,ي س,س,diff_vs_next,Difference between current and next surah ratios,-0.0028809752458352853,Current vs Next surah ratio difference
+36,ي س,س,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.003220457761250359,Current vs All Subsequent surahs ratio difference
+38,ص,ص,count_current,Letter count in current surah,30,Current surah with Muqatta'at
+38,ص,ص,count_previous,Letter count in previous surah,34,Previous surah (surah 37)
+38,ص,ص,count_all_previous,Letter count in all previous surahs,1514,All surahs before current (surahs 1-37)
+38,ص,ص,count_next,Letter count in next surah,22,Next surah (surah 39)
+38,ص,ص,count_all_after,Letter count in all subsequent surahs,531,All surahs after current (surahs 39-114)
+38,ص,ص,ratio_current,Letter ratio in current surah (count/total),0.009668063164679342,Current surah with Muqatta'at
+38,ص,ص,ratio_previous,Letter ratio in previous surah (count/total),0.008691206543967281,Previous surah (surah 37)
+38,ص,ص,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.0060042910455160164,All surahs before current (surahs 1-37)
+38,ص,ص,ratio_next,Letter ratio in next surah (count/total),0.00444624090541633,Next surah (surah 39)
+38,ص,ص,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.006646555932457974,All surahs after current (surahs 39-114)
+38,ص,ص,diff_vs_previous,Difference between current and previous surah ratios,0.0009768566207120615,Current vs Previous surah ratio difference
+38,ص,ص,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.003663772119163326,Current vs All Previous surahs ratio difference
+38,ص,ص,diff_vs_next,Difference between current and next surah ratios,0.005221822259263012,Current vs Next surah ratio difference
+38,ص,ص,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.0030215072322213685,Current vs All Subsequent surahs ratio difference
+40,ح م,ح,count_current,Letter count in current surah,63,Current surah with Muqatta'at
+40,ح م,ح,count_previous,Letter count in previous surah,61,Previous surah (surah 39)
+40,ح م,ح,count_all_previous,Letter count in all previous surahs,3193,All surahs before current (surahs 1-39)
+40,ح م,ح,count_next,Letter count in next surah,47,Next surah (surah 41)
+40,ح م,ح,count_all_after,Letter count in all subsequent surahs,889,All surahs after current (surahs 41-114)
+40,ح م,ح,ratio_current,Letter ratio in current surah (count/total),0.01216920996716245,Current surah with Muqatta'at
+40,ح م,ح,ratio_previous,Letter ratio in previous surah (count/total),0.01232821341956346,Previous surah (surah 39)
+40,ح م,ح,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.012271141104671719,All surahs before current (surahs 1-39)
+40,ح م,ح,ratio_next,Letter ratio in next surah (count/total),0.013791079812206572,Next surah (surah 41)
+40,ح م,ح,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.012742596680331394,All surahs after current (surahs 41-114)
+40,ح م,ح,diff_vs_previous,Difference between current and previous surah ratios,-0.00015900345240101033,Current vs Previous surah ratio difference
+40,ح م,ح,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.00010193113750926915,Current vs All Previous surahs ratio difference
+40,ح م,ح,diff_vs_next,Difference between current and next surah ratios,-0.001621869845044123,Current vs Next surah ratio difference
+40,ح م,ح,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0005733867131689444,Current vs All Subsequent surahs ratio difference
+40,ح م,م,count_current,Letter count in current surah,378,Current surah with Muqatta'at
+40,ح م,م,count_previous,Letter count in previous surah,378,Previous surah (surah 39)
+40,ح م,م,count_all_previous,Letter count in all previous surahs,20773,All surahs before current (surahs 1-39)
+40,ح م,م,count_next,Letter count in next surah,274,Next surah (surah 41)
+40,ح م,م,count_all_after,Letter count in all subsequent surahs,5598,All surahs after current (surahs 41-114)
+40,ح م,م,ratio_current,Letter ratio in current surah (count/total),0.0730152598029747,Current surah with Muqatta'at
+40,ح م,م,ratio_previous,Letter ratio in previous surah (count/total),0.07639450282942603,Previous surah (surah 39)
+40,ح م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.07983351524188713,All surahs before current (surahs 1-39)
+40,ح م,م,ratio_next,Letter ratio in next surah (count/total),0.08039906103286384,Next surah (surah 41)
+40,ح م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.08023965828627125,All surahs after current (surahs 41-114)
+40,ح م,م,diff_vs_previous,Difference between current and previous surah ratios,-0.0033792430264513312,Current vs Previous surah ratio difference
+40,ح م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0068182554389124295,Current vs All Previous surahs ratio difference
+40,ح م,م,diff_vs_next,Difference between current and next surah ratios,-0.007383801229889145,Current vs Next surah ratio difference
+40,ح م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0072243984832965485,Current vs All Subsequent surahs ratio difference
+41,ح م,ح,count_current,Letter count in current surah,47,Current surah with Muqatta'at
+41,ح م,ح,count_previous,Letter count in previous surah,63,Previous surah (surah 40)
+41,ح م,ح,count_all_previous,Letter count in all previous surahs,3256,All surahs before current (surahs 1-40)
+41,ح م,ح,count_next,Letter count in next surah,52,Next surah (surah 42)
+41,ح م,ح,count_all_after,Letter count in all subsequent surahs,842,All surahs after current (surahs 42-114)
+41,ح م,ح,ratio_current,Letter ratio in current surah (count/total),0.013791079812206572,Current surah with Muqatta'at
+41,ح م,ح,ratio_previous,Letter ratio in previous surah (count/total),0.01216920996716245,Previous surah (surah 40)
+41,ح م,ح,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.012269152652224537,All surahs before current (surahs 1-40)
+41,ح م,ح,ratio_next,Letter ratio in next surah (count/total),0.014460511679644048,Next surah (surah 42)
+41,ح م,ح,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.012688748907441453,All surahs after current (surahs 42-114)
+41,ح م,ح,diff_vs_previous,Difference between current and previous surah ratios,0.001621869845044123,Current vs Previous surah ratio difference
+41,ح م,ح,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0015219271599820356,Current vs All Previous surahs ratio difference
+41,ح م,ح,diff_vs_next,Difference between current and next surah ratios,-0.0006694318674374759,Current vs Next surah ratio difference
+41,ح م,ح,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.001102330904765119,Current vs All Subsequent surahs ratio difference
+41,ح م,م,count_current,Letter count in current surah,274,Current surah with Muqatta'at
+41,ح م,م,count_previous,Letter count in previous surah,378,Previous surah (surah 40)
+41,ح م,م,count_all_previous,Letter count in all previous surahs,21151,All surahs before current (surahs 1-40)
+41,ح م,م,count_next,Letter count in next surah,298,Next surah (surah 42)
+41,ح م,م,count_all_after,Letter count in all subsequent surahs,5324,All surahs after current (surahs 42-114)
+41,ح م,م,ratio_current,Letter ratio in current surah (count/total),0.08039906103286384,Current surah with Muqatta'at
+41,ح م,م,ratio_previous,Letter ratio in previous surah (count/total),0.0730152598029747,Previous surah (surah 40)
+41,ح م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.07970050606486523,All surahs before current (surahs 1-40)
+41,ح م,م,ratio_next,Letter ratio in next surah (count/total),0.0828698553948832,Next surah (surah 42)
+41,ح م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.08023147171403598,All surahs after current (surahs 42-114)
+41,ح م,م,diff_vs_previous,Difference between current and previous surah ratios,0.007383801229889145,Current vs Previous surah ratio difference
+41,ح م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0006985549679986158,Current vs All Previous surahs ratio difference
+41,ح م,م,diff_vs_next,Difference between current and next surah ratios,-0.0024707943620193573,Current vs Next surah ratio difference
+41,ح م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.00016758931882786265,Current vs All Subsequent surahs ratio difference
+42,ح م ع س ق,ح,count_current,Letter count in current surah,52,Current surah with Muqatta'at
+42,ح م ع س ق,ح,count_previous,Letter count in previous surah,47,Previous surah (surah 41)
+42,ح م ع س ق,ح,count_all_previous,Letter count in all previous surahs,3303,All surahs before current (surahs 1-41)
+42,ح م ع س ق,ح,count_next,Letter count in next surah,43,Next surah (surah 43)
+42,ح م ع س ق,ح,count_all_after,Letter count in all subsequent surahs,790,All surahs after current (surahs 43-114)
+42,ح م ع س ق,ح,ratio_current,Letter ratio in current surah (count/total),0.014460511679644048,Current surah with Muqatta'at
+42,ح م ع س ق,ح,ratio_previous,Letter ratio in previous surah (count/total),0.013791079812206572,Previous surah (surah 41)
+42,ح م ع س ق,ح,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.012288449304100986,All surahs before current (surahs 1-41)
+42,ح م ع س ق,ح,ratio_next,Letter ratio in next surah (count/total),0.011803458687894593,Next surah (surah 43)
+42,ح م ع س ق,ح,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.012587234313756732,All surahs after current (surahs 43-114)
+42,ح م ع س ق,ح,diff_vs_previous,Difference between current and previous surah ratios,0.0006694318674374759,Current vs Previous surah ratio difference
+42,ح م ع س ق,ح,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0021720623755430626,Current vs All Previous surahs ratio difference
+42,ح م ع س ق,ح,diff_vs_next,Difference between current and next surah ratios,0.002657052991749455,Current vs Next surah ratio difference
+42,ح م ع س ق,ح,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.0018732773658873166,Current vs All Subsequent surahs ratio difference
+42,ح م ع س ق,م,count_current,Letter count in current surah,298,Current surah with Muqatta'at
+42,ح م ع س ق,م,count_previous,Letter count in previous surah,274,Previous surah (surah 41)
+42,ح م ع س ق,م,count_all_previous,Letter count in all previous surahs,21425,All surahs before current (surahs 1-41)
+42,ح م ع س ق,م,count_next,Letter count in next surah,322,Next surah (surah 43)
+42,ح م ع س ق,م,count_all_after,Letter count in all subsequent surahs,5026,All surahs after current (surahs 43-114)
+42,ح م ع س ق,م,ratio_current,Letter ratio in current surah (count/total),0.0828698553948832,Current surah with Muqatta'at
+42,ح م ع س ق,م,ratio_previous,Letter ratio in previous surah (count/total),0.08039906103286384,Previous surah (surah 41)
+42,ح م ع س ق,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.07970936310637712,All surahs before current (surahs 1-41)
+42,ح م ع س ق,م,ratio_next,Letter ratio in next surah (count/total),0.08838869063958277,Next surah (surah 43)
+42,ح م ع س ق,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.08008030336828018,All surahs after current (surahs 43-114)
+42,ح م ع س ق,م,diff_vs_previous,Difference between current and previous surah ratios,0.0024707943620193573,Current vs Previous surah ratio difference
+42,ح م ع س ق,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.003160492288506081,Current vs All Previous surahs ratio difference
+42,ح م ع س ق,م,diff_vs_next,Difference between current and next surah ratios,-0.005518835244699566,Current vs Next surah ratio difference
+42,ح م ع س ق,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.002789552026603026,Current vs All Subsequent surahs ratio difference
+42,ح م ع س ق,ع,count_current,Letter count in current surah,99,Current surah with Muqatta'at
+42,ح م ع س ق,ع,count_previous,Letter count in previous surah,102,Previous surah (surah 41)
+42,ح م ع س ق,ع,count_all_previous,Letter count in all previous surahs,7597,All surahs before current (surahs 1-41)
+42,ح م ع س ق,ع,count_next,Letter count in next surah,121,Next surah (surah 43)
+42,ح م ع س ق,ع,count_all_after,Letter count in all subsequent surahs,1711,All surahs after current (surahs 43-114)
+42,ح م ع س ق,ع,ratio_current,Letter ratio in current surah (count/total),0.02753058954393771,Current surah with Muqatta'at
+42,ح م ع س ق,ع,ratio_previous,Letter ratio in previous surah (count/total),0.02992957746478873,Previous surah (surah 41)
+42,ح م ع س ق,ع,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.028263805438466603,All surahs before current (surahs 1-41)
+42,ح م ع س ق,ع,ratio_next,Letter ratio in next surah (count/total),0.03321438374965688,Next surah (surah 43)
+42,ح م ع س ق,ع,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.02726171887447819,All surahs after current (surahs 43-114)
+42,ح م ع س ق,ع,diff_vs_previous,Difference between current and previous surah ratios,-0.002398987920851022,Current vs Previous surah ratio difference
+42,ح م ع س ق,ع,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0007332158945288943,Current vs All Previous surahs ratio difference
+42,ح م ع س ق,ع,diff_vs_next,Difference between current and next surah ratios,-0.00568379420571917,Current vs Next surah ratio difference
+42,ح م ع س ق,ع,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.00026887066945952,Current vs All Subsequent surahs ratio difference
+42,ح م ع س ق,س,count_current,Letter count in current surah,54,Current surah with Muqatta'at
+42,ح م ع س ق,س,count_previous,Letter count in previous surah,64,Previous surah (surah 41)
+42,ح م ع س ق,س,count_all_previous,Letter count in all previous surahs,4769,All surahs before current (surahs 1-41)
+42,ح م ع س ق,س,count_next,Letter count in next surah,71,Next surah (surah 43)
+42,ح م ع س ق,س,count_all_after,Letter count in all subsequent surahs,1193,All surahs after current (surahs 43-114)
+42,ح م ع س ق,س,ratio_current,Letter ratio in current surah (count/total),0.015016685205784204,Current surah with Muqatta'at
+42,ح م ع س ق,س,ratio_previous,Letter ratio in previous surah (count/total),0.018779342723004695,Previous surah (surah 41)
+42,ح م ع س ق,س,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.01774254154745916,All surahs before current (surahs 1-41)
+42,ح م ع س ق,س,ratio_next,Letter ratio in next surah (count/total),0.019489431786988747,Next surah (surah 43)
+42,ح م ع س ق,س,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.019008317134571875,All surahs after current (surahs 43-114)
+42,ح م ع س ق,س,diff_vs_previous,Difference between current and previous surah ratios,-0.0037626575172204912,Current vs Previous surah ratio difference
+42,ح م ع س ق,س,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0027258563416749544,Current vs All Previous surahs ratio difference
+42,ح م ع س ق,س,diff_vs_next,Difference between current and next surah ratios,-0.0044727465812045425,Current vs Next surah ratio difference
+42,ح م ع س ق,س,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.003991631928787671,Current vs All Subsequent surahs ratio difference
+42,ح م ع س ق,ق,count_current,Letter count in current surah,58,Current surah with Muqatta'at
+42,ح م ع س ق,ق,count_previous,Letter count in previous surah,81,Previous surah (surah 41)
+42,ح م ع س ق,ق,count_all_previous,Letter count in all previous surahs,5674,All surahs before current (surahs 1-41)
+42,ح م ع س ق,ق,count_next,Letter count in next surah,84,Next surah (surah 43)
+42,ح م ع س ق,ق,count_all_after,Letter count in all subsequent surahs,1304,All surahs after current (surahs 43-114)
+42,ح م ع س ق,ق,ratio_current,Letter ratio in current surah (count/total),0.016129032258064516,Current surah with Muqatta'at
+42,ح م ع س ق,ق,ratio_previous,Letter ratio in previous surah (count/total),0.023767605633802816,Previous surah (surah 41)
+42,ح م ع س ق,ق,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.021109494808195278,All surahs before current (surahs 1-41)
+42,ح م ع س ق,ق,ratio_next,Letter ratio in next surah (count/total),0.02305791929728246,Next surah (surah 43)
+42,ح م ع س ق,ق,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.020776903221694655,All surahs after current (surahs 43-114)
+42,ح م ع س ق,ق,diff_vs_previous,Difference between current and previous surah ratios,-0.007638573375738301,Current vs Previous surah ratio difference
+42,ح م ع س ق,ق,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.004980462550130762,Current vs All Previous surahs ratio difference
+42,ح م ع س ق,ق,diff_vs_next,Difference between current and next surah ratios,-0.006928887039217943,Current vs Next surah ratio difference
+42,ح م ع س ق,ق,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.004647870963630139,Current vs All Subsequent surahs ratio difference
+43,ح م,ح,count_current,Letter count in current surah,43,Current surah with Muqatta'at
+43,ح م,ح,count_previous,Letter count in previous surah,52,Previous surah (surah 42)
+43,ح م,ح,count_all_previous,Letter count in all previous surahs,3355,All surahs before current (surahs 1-42)
+43,ح م,ح,count_next,Letter count in next surah,15,Next surah (surah 44)
+43,ح م,ح,count_all_after,Letter count in all subsequent surahs,747,All surahs after current (surahs 44-114)
+43,ح م,ح,ratio_current,Letter ratio in current surah (count/total),0.011803458687894593,Current surah with Muqatta'at
+43,ح م,ح,ratio_previous,Letter ratio in previous surah (count/total),0.014460511679644048,Previous surah (surah 42)
+43,ح م,ح,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.012317124658112598,All surahs before current (surahs 1-42)
+43,ح م,ح,ratio_next,Letter ratio in next surah (count/total),0.010046885465505693,Next surah (surah 44)
+43,ح م,ح,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.012635531724149596,All surahs after current (surahs 44-114)
+43,ح م,ح,diff_vs_previous,Difference between current and previous surah ratios,-0.002657052991749455,Current vs Previous surah ratio difference
+43,ح م,ح,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.0005136659702180048,Current vs All Previous surahs ratio difference
+43,ح م,ح,diff_vs_next,Difference between current and next surah ratios,0.0017565732223888998,Current vs Next surah ratio difference
+43,ح م,ح,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0008320730362550034,Current vs All Subsequent surahs ratio difference
+43,ح م,م,count_current,Letter count in current surah,322,Current surah with Muqatta'at
+43,ح م,م,count_previous,Letter count in previous surah,298,Previous surah (surah 42)
+43,ح م,م,count_all_previous,Letter count in all previous surahs,21723,All surahs before current (surahs 1-42)
+43,ح م,م,count_next,Letter count in next surah,148,Next surah (surah 44)
+43,ح م,م,count_all_after,Letter count in all subsequent surahs,4704,All surahs after current (surahs 44-114)
+43,ح م,م,ratio_current,Letter ratio in current surah (count/total),0.08838869063958277,Current surah with Muqatta'at
+43,ح م,م,ratio_previous,Letter ratio in previous surah (count/total),0.0828698553948832,Previous surah (surah 42)
+43,ح م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.07975108761495676,All surahs before current (surahs 1-42)
+43,ح م,م,ratio_next,Letter ratio in next surah (count/total),0.09912926992632284,Next surah (surah 44)
+43,ح م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07956832828701432,All surahs after current (surahs 44-114)
+43,ح م,م,diff_vs_previous,Difference between current and previous surah ratios,0.005518835244699566,Current vs Previous surah ratio difference
+43,ح م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.008637603024626003,Current vs All Previous surahs ratio difference
+43,ح م,م,diff_vs_next,Difference between current and next surah ratios,-0.010740579286740076,Current vs Next surah ratio difference
+43,ح م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.008820362352568445,Current vs All Subsequent surahs ratio difference
+44,ح م,ح,count_current,Letter count in current surah,15,Current surah with Muqatta'at
+44,ح م,ح,count_previous,Letter count in previous surah,43,Previous surah (surah 43)
+44,ح م,ح,count_all_previous,Letter count in all previous surahs,3398,All surahs before current (surahs 1-43)
+44,ح م,ح,count_next,Letter count in next surah,30,Next surah (surah 45)
+44,ح م,ح,count_all_after,Letter count in all subsequent surahs,732,All surahs after current (surahs 45-114)
+44,ح م,ح,ratio_current,Letter ratio in current surah (count/total),0.010046885465505693,Current surah with Muqatta'at
+44,ح م,ح,ratio_previous,Letter ratio in previous surah (count/total),0.011803458687894593,Previous surah (surah 43)
+44,ح م,ح,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.012310345327285638,All surahs before current (surahs 1-43)
+44,ح م,ح,ratio_next,Letter ratio in next surah (count/total),0.014218009478672985,Next surah (surah 45)
+44,ح م,ح,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.012702599521049527,All surahs after current (surahs 45-114)
+44,ح م,ح,diff_vs_previous,Difference between current and previous surah ratios,-0.0017565732223888998,Current vs Previous surah ratio difference
+44,ح م,ح,diff_vs_all_previous,Difference between current and all previous surahs ratios,-0.002263459861779945,Current vs All Previous surahs ratio difference
+44,ح م,ح,diff_vs_next,Difference between current and next surah ratios,-0.004171124013167292,Current vs Next surah ratio difference
+44,ح م,ح,diff_vs_all_after,Difference between current and all subsequent surahs ratios,-0.0026557140555438334,Current vs All Subsequent surahs ratio difference
+44,ح م,م,count_current,Letter count in current surah,148,Current surah with Muqatta'at
+44,ح م,م,count_previous,Letter count in previous surah,322,Previous surah (surah 43)
+44,ح م,م,count_all_previous,Letter count in all previous surahs,22045,All surahs before current (surahs 1-43)
+44,ح م,م,count_next,Letter count in next surah,198,Next surah (surah 45)
+44,ح م,م,count_all_after,Letter count in all subsequent surahs,4556,All surahs after current (surahs 45-114)
+44,ح م,م,ratio_current,Letter ratio in current surah (count/total),0.09912926992632284,Current surah with Muqatta'at
+44,ح م,م,ratio_previous,Letter ratio in previous surah (count/total),0.08838869063958277,Previous surah (surah 43)
+44,ح م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.07986508615068036,All surahs before current (surahs 1-43)
+44,ح م,م,ratio_next,Letter ratio in next surah (count/total),0.0938388625592417,Next surah (surah 45)
+44,ح م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07906153472390935,All surahs after current (surahs 45-114)
+44,ح م,م,diff_vs_previous,Difference between current and previous surah ratios,0.010740579286740076,Current vs Previous surah ratio difference
+44,ح م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.019264183775642485,Current vs All Previous surahs ratio difference
+44,ح م,م,diff_vs_next,Difference between current and next surah ratios,0.00529040736708114,Current vs Next surah ratio difference
+44,ح م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.020067735202413492,Current vs All Subsequent surahs ratio difference
+45,ح م,ح,count_current,Letter count in current surah,30,Current surah with Muqatta'at
+45,ح م,ح,count_previous,Letter count in previous surah,15,Previous surah (surah 44)
+45,ح م,ح,count_all_previous,Letter count in all previous surahs,3413,All surahs before current (surahs 1-44)
+45,ح م,ح,count_next,Letter count in next surah,35,Next surah (surah 46)
+45,ح م,ح,count_all_after,Letter count in all subsequent surahs,702,All surahs after current (surahs 46-114)
+45,ح م,ح,ratio_current,Letter ratio in current surah (count/total),0.014218009478672985,Current surah with Muqatta'at
+45,ح م,ح,ratio_previous,Letter ratio in previous surah (count/total),0.010046885465505693,Previous surah (surah 44)
+45,ح م,ح,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.01229816842689382,All surahs before current (surahs 1-44)
+45,ح م,ح,ratio_next,Letter ratio in next surah (count/total),0.012967765839199704,Next surah (surah 46)
+45,ح م,ح,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.012645003242308524,All surahs after current (surahs 46-114)
+45,ح م,ح,diff_vs_previous,Difference between current and previous surah ratios,0.004171124013167292,Current vs Previous surah ratio difference
+45,ح م,ح,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0019198410517791645,Current vs All Previous surahs ratio difference
+45,ح م,ح,diff_vs_next,Difference between current and next surah ratios,0.0012502436394732815,Current vs Next surah ratio difference
+45,ح م,ح,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.001573006236364461,Current vs All Subsequent surahs ratio difference
+45,ح م,م,count_current,Letter count in current surah,198,Current surah with Muqatta'at
+45,ح م,م,count_previous,Letter count in previous surah,148,Previous surah (surah 44)
+45,ح م,م,count_all_previous,Letter count in all previous surahs,22193,All surahs before current (surahs 1-44)
+45,ح م,م,count_next,Letter count in next surah,223,Next surah (surah 46)
+45,ح م,م,count_all_after,Letter count in all subsequent surahs,4358,All surahs after current (surahs 46-114)
+45,ح م,م,ratio_current,Letter ratio in current surah (count/total),0.0938388625592417,Current surah with Muqatta'at
+45,ح م,م,ratio_previous,Letter ratio in previous surah (count/total),0.09912926992632284,Previous surah (surah 44)
+45,ح م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.07996872308762219,All surahs before current (surahs 1-44)
+45,ح م,م,ratio_next,Letter ratio in next surah (count/total),0.08262319377547239,Next surah (surah 46)
+45,ح م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07849989192304921,All surahs after current (surahs 46-114)
+45,ح م,م,diff_vs_previous,Difference between current and previous surah ratios,-0.00529040736708114,Current vs Previous surah ratio difference
+45,ح م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.013870139471619511,Current vs All Previous surahs ratio difference
+45,ح م,م,diff_vs_next,Difference between current and next surah ratios,0.011215668783769311,Current vs Next surah ratio difference
+45,ح م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.015338970636192495,Current vs All Subsequent surahs ratio difference
+46,ح م,ح,count_current,Letter count in current surah,35,Current surah with Muqatta'at
+46,ح م,ح,count_previous,Letter count in previous surah,30,Previous surah (surah 45)
+46,ح م,ح,count_all_previous,Letter count in all previous surahs,3443,All surahs before current (surahs 1-45)
+46,ح م,ح,count_next,Letter count in next surah,23,Next surah (surah 47)
+46,ح م,ح,count_all_after,Letter count in all subsequent surahs,667,All surahs after current (surahs 47-114)
+46,ح م,ح,ratio_current,Letter ratio in current surah (count/total),0.012967765839199704,Current surah with Muqatta'at
+46,ح م,ح,ratio_previous,Letter ratio in previous surah (count/total),0.014218009478672985,Previous surah (surah 45)
+46,ح م,ح,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.012312654891625035,All surahs before current (surahs 1-45)
+46,ح م,ح,ratio_next,Letter ratio in next surah (count/total),0.009391588403429971,Next surah (surah 47)
+46,ح م,ح,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.012628509760115115,All surahs after current (surahs 47-114)
+46,ح م,ح,diff_vs_previous,Difference between current and previous surah ratios,-0.0012502436394732815,Current vs Previous surah ratio difference
+46,ح م,ح,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0006551109475746685,Current vs All Previous surahs ratio difference
+46,ح م,ح,diff_vs_next,Difference between current and next surah ratios,0.0035761774357697326,Current vs Next surah ratio difference
+46,ح م,ح,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.00033925607908458916,Current vs All Subsequent surahs ratio difference
+46,ح م,م,count_current,Letter count in current surah,223,Current surah with Muqatta'at
+46,ح م,م,count_previous,Letter count in previous surah,198,Previous surah (surah 45)
+46,ح م,م,count_all_previous,Letter count in all previous surahs,22391,All surahs before current (surahs 1-45)
+46,ح م,م,count_next,Letter count in next surah,223,Next surah (surah 47)
+46,ح م,م,count_all_after,Letter count in all subsequent surahs,4135,All surahs after current (surahs 47-114)
+46,ح م,م,ratio_current,Letter ratio in current surah (count/total),0.08262319377547239,Current surah with Muqatta'at
+46,ح م,م,ratio_previous,Letter ratio in previous surah (count/total),0.0938388625592417,Previous surah (surah 45)
+46,ح م,م,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.08007338242183448,All surahs before current (surahs 1-45)
+46,ح م,م,ratio_next,Letter ratio in next surah (count/total),0.09105757452021233,Next surah (surah 47)
+46,ح م,م,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07828918719351724,All surahs after current (surahs 47-114)
+46,ح م,م,diff_vs_previous,Difference between current and previous surah ratios,-0.011215668783769311,Current vs Previous surah ratio difference
+46,ح م,م,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.0025498113536379097,Current vs All Previous surahs ratio difference
+46,ح م,م,diff_vs_next,Difference between current and next surah ratios,-0.008434380744739942,Current vs Next surah ratio difference
+46,ح م,م,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.004334006581955152,Current vs All Subsequent surahs ratio difference
+50,ق,ق,count_current,Letter count in current surah,58,Current surah with Muqatta'at
+50,ق,ق,count_previous,Letter count in previous surah,32,Previous surah (surah 49)
+50,ق,ق,count_all_previous,Letter count in all previous surahs,6077,All surahs before current (surahs 1-49)
+50,ق,ق,count_next,Letter count in next surah,46,Next surah (surah 51)
+50,ق,ق,count_all_after,Letter count in all subsequent surahs,901,All surahs after current (surahs 51-114)
+50,ق,ق,ratio_current,Letter ratio in current surah (count/total),0.03808273145108339,Current surah with Muqatta'at
+50,ق,ق,ratio_previous,Letter ratio in previous surah (count/total),0.020499679692504803,Previous surah (surah 49)
+50,ق,ق,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.02103576114009187,All surahs before current (surahs 1-49)
+50,ق,ق,ratio_next,Letter ratio in next surah (count/total),0.02956298200514139,Next surah (surah 51)
+50,ق,ق,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.020140829328266458,All surahs after current (surahs 51-114)
+50,ق,ق,diff_vs_previous,Difference between current and previous surah ratios,0.017583051758578584,Current vs Previous surah ratio difference
+50,ق,ق,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.01704697031099152,Current vs All Previous surahs ratio difference
+50,ق,ق,diff_vs_next,Difference between current and next surah ratios,0.008519749445941999,Current vs Next surah ratio difference
+50,ق,ق,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.01794190212281693,Current vs All Subsequent surahs ratio difference
+68,ن,ن,count_current,Letter count in current surah,132,Current surah with Muqatta'at
+68,ن,ن,count_previous,Letter count in previous surah,98,Previous surah (surah 67)
+68,ن,ن,count_all_previous,Letter count in all previous surahs,25823,All surahs before current (surahs 1-67)
+68,ن,ن,count_next,Letter count in next surah,73,Next surah (surah 69)
+68,ن,ن,count_all_after,Letter count in all subsequent surahs,1315,All surahs after current (surahs 69-114)
+68,ن,ن,ratio_current,Letter ratio in current surah (count/total),0.1017733230531997,Current surah with Muqatta'at
+68,ن,ن,ratio_previous,Letter ratio in previous surah (count/total),0.07195301027900147,Previous surah (surah 67)
+68,ن,ن,ratio_all_previous,Letter ratio in all previous surahs (count/total),0.08190601250967407,All surahs before current (surahs 1-67)
+68,ن,ن,ratio_next,Letter ratio in next surah (count/total),0.06420404573438875,Next surah (surah 69)
+68,ن,ن,ratio_all_after,Letter ratio in all subsequent surahs (count/total),0.07079788952298913,All surahs after current (surahs 69-114)
+68,ن,ن,diff_vs_previous,Difference between current and previous surah ratios,0.02982031277419822,Current vs Previous surah ratio difference
+68,ن,ن,diff_vs_all_previous,Difference between current and all previous surahs ratios,0.019867310543525626,Current vs All Previous surahs ratio difference
+68,ن,ن,diff_vs_next,Difference between current and next surah ratios,0.03756927731881095,Current vs Next surah ratio difference
+68,ن,ن,diff_vs_all_after,Difference between current and all subsequent surahs ratios,0.030975433530210567,Current vs All Subsequent surahs ratio difference

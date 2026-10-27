@@ -1,0 +1,32 @@
+{
+  "scenario": "baseline_operation",
+  "timestamp": "2026-02-21T10:21:52.593748",
+  "network_info": {
+    "junctions": 1164,
+    "pipes": 1310,
+    "reservoirs": 2
+  },
+  "statistics": {
+    "avg_pressure_m": 40.1,
+    "min_pressure_m": 0.0,
+    "max_pressure_m": 104.7,
+    "total_flow_lps": 3996.3
+  },
+  "anomalies": {
+    "negative_count": 0,
+    "low_count": 105,
+    "critical_count": 60,
+    "high_count": 113,
+    "negative_pressure_count": 0,
+    "low_pressure_count": 105,
+    "high_pressure_count": 113,
+    "example_negative": [],
+    "example_low": [
+      "178",
+      "503",
+      "505",
+      "523",
+      "554"
+    ]
+  }
+}

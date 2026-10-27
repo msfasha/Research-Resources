@@ -1,0 +1,43 @@
+{
+  "burst_node": "1527",
+  "baseline_low_pressure_nodes": 105,
+  "detection_threshold": ">105 low-pressure nodes",
+  "results": [
+    {
+      "noise_label": "No Noise (Baseline)",
+      "pressure_noise_m": 0,
+      "flow_noise_pct": 0.0,
+      "low_pressure_nodes": 105,
+      "critical_nodes": 60,
+      "total_anomalies": 218,
+      "burst_detected": false
+    },
+    {
+      "noise_label": "Low   (\u00b12 m, \u00b15% flow)",
+      "pressure_noise_m": 2,
+      "flow_noise_pct": 5.0,
+      "low_pressure_nodes": 102,
+      "critical_nodes": 56,
+      "total_anomalies": 217,
+      "burst_detected": false
+    },
+    {
+      "noise_label": "Medium(\u00b15 m, \u00b110% flow)",
+      "pressure_noise_m": 5,
+      "flow_noise_pct": 10.0,
+      "low_pressure_nodes": 124,
+      "critical_nodes": 69,
+      "total_anomalies": 249,
+      "burst_detected": true
+    },
+    {
+      "noise_label": "High  (\u00b18 m, \u00b115% flow)",
+      "pressure_noise_m": 8,
+      "flow_noise_pct": 15.0,
+      "low_pressure_nodes": 126,
+      "critical_nodes": 69,
+      "total_anomalies": 266,
+      "burst_detected": true
+    }
+  ]
+}

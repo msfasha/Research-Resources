@@ -1,0 +1,2290 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="AraOnto"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="AraOnto">
+    <Prefix name="" IRI="AraOnto"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="araonto" IRI="AraOnto#"/>
+    <Declaration>
+        <Class IRI="#AbstractConcept"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Age"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Agent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bad"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Belief"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Character"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Child"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ConcreteConcept"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DidSomeBadEvent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Earth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Event"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeAbstract"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeAssertive"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeBad"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeBreak"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeCommitment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeDecide"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeDemand"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeEmotional"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeFallDown"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeFeel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeHelp"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeImperative"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeInterrogative"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeMental"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypePhysical"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeRegret"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeSee"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeSensory"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeStandUp"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeThank"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeThink"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeVerbal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EventTypeWalk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FeelRegret"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Feeling"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Food"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fragile"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Glass"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GoodPerson"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Human"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Intention"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Job"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Man"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PhysicalObject"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Place"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Property"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Relation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Size"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Speed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Volume"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Window"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Woman"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ِAnimal"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#HappendedAfterEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISA"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISAssertedByCharacter"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISCausedBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISPerformedBy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISRelatedTo"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheBeginTimeOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheBeliefOfCharacter"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheBenefeciaryOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheCauseOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheDemandOfCharacter"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheEndLocationOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheEndTimeOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheFeelingOfCharacter"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheFirstObjectOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheGoalOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheInstrumentOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheIntendtionOfCharacter"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheLocationOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheLocationOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheMannerOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISThePredicateOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISThePropertyOf"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheSecondObjectOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheStartLocationOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#ISTheTimeOfEvent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#OccuredAfterEvent"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#HasAge"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#HasName"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#any_earth"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#any_help"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#any_human"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#any_see"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#any_standup"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#any_thank"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#any_walk"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#any_woman"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#DASE_RULE"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#ar"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#ar_noun"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#ar_noun_2f"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#ar_noun_2m"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#ar_noun_pf"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#ar_noun_pm"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#ar_noun_sf"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#ar_noun_sm"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#pa_1_f"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#pa_1_m"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#pa_2_f"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#pa_2_m"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#pa_3_f"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#pa_3_m"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#pr_1_f"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#pr_1_m"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#pr_2_f"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#pr_2_m"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#pr_3_f"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#pr_3_m"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="#root"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#fwqE"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#lylEb"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ndm"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tSrfh"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tAsf"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#wsAmr"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#sAmr"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#lh."/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Thing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ylEb"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#wSAr"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#mEh"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#kAn"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#fsAEd"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#dfEh"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ybky."/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tAmr"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#$qyqAn."/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#jA&apos;"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Age"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Age"/>
+        <Class IRI="#Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Age"/>
+        <Class IRI="#Relation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Agent"/>
+        <Class IRI="#ConcreteConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Agent"/>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bad"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bad"/>
+        <Class IRI="#Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bad"/>
+        <Class IRI="#Relation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Belief"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Character"/>
+        <Class IRI="#Agent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Character"/>
+        <Class IRI="#ConcreteConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Character"/>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Child"/>
+        <Class IRI="#Agent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Child"/>
+        <Class IRI="#Character"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Child"/>
+        <Class IRI="#ConcreteConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Child"/>
+        <Class IRI="#Human"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Child"/>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DidSomeBadEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Earth"/>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Event"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeAbstract"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeAbstract"/>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeAssertive"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeAssertive"/>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeAssertive"/>
+        <Class IRI="#EventTypeVerbal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeBad"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeBad"/>
+        <Class IRI="#Bad"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeBad"/>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeBad"/>
+        <Class IRI="#Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeBad"/>
+        <Class IRI="#Relation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeBad"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#Bad"/>
+            <Class IRI="#Event"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeBreak"/>
+        <Class IRI="#EventTypeBad"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeBreak"/>
+        <Class IRI="#EventTypePhysical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeCommitment"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeCommitment"/>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeCommitment"/>
+        <Class IRI="#EventTypeVerbal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeDecide"/>
+        <Class IRI="#EventTypeMental"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeDemand"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeDemand"/>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeDemand"/>
+        <Class IRI="#EventTypeVerbal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeEmotional"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeEmotional"/>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeFallDown"/>
+        <Class IRI="#EventTypePhysical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeFeel"/>
+        <Class IRI="#EventTypeEmotional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeHelp"/>
+        <Class IRI="#EventTypeAbstract"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeImperative"/>
+        <Class IRI="#EventTypeVerbal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeInterrogative"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeInterrogative"/>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeInterrogative"/>
+        <Class IRI="#EventTypeVerbal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeMental"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeMental"/>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypePhysical"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypePhysical"/>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeRegret"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeRegret"/>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeRegret"/>
+        <Class IRI="#EventTypeEmotional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeSee"/>
+        <Class IRI="#EventTypeSensory"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeSensory"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeSensory"/>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeStandUp"/>
+        <Class IRI="#EventTypePhysical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeThank"/>
+        <Class IRI="#EventTypeMental"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeThink"/>
+        <Class IRI="#EventTypeMental"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeVerbal"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeVerbal"/>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EventTypeWalk"/>
+        <Class IRI="#EventTypePhysical"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FeelRegret"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Feeling"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Food"/>
+        <Class IRI="#ConcreteConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Food"/>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fragile"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Glass"/>
+        <Class IRI="#ConcreteConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Glass"/>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GoodPerson"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Human"/>
+        <Class IRI="#Agent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Human"/>
+        <Class IRI="#Character"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Human"/>
+        <Class IRI="#ConcreteConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Human"/>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Intention"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Job"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Man"/>
+        <Class IRI="#Agent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Man"/>
+        <Class IRI="#Character"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Man"/>
+        <Class IRI="#ConcreteConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Annotation>
+            <AnnotationProperty IRI="#ar_noun_sm"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">رجل</Literal>
+        </Annotation>
+        <Class IRI="#Man"/>
+        <Class IRI="#Human"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Man"/>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PhysicalObject"/>
+        <Class IRI="#ConcreteConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Place"/>
+        <Class IRI="#ConcreteConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Place"/>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Property"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Property"/>
+        <Class IRI="#Relation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Relation"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Size"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Size"/>
+        <Class IRI="#Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Size"/>
+        <Class IRI="#Relation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Speed"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Speed"/>
+        <Class IRI="#Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Speed"/>
+        <Class IRI="#Relation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Time"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Volume"/>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Volume"/>
+        <Class IRI="#Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Volume"/>
+        <Class IRI="#Relation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Window"/>
+        <Class IRI="#ConcreteConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Window"/>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Woman"/>
+        <Class IRI="#Agent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Woman"/>
+        <Class IRI="#Character"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Woman"/>
+        <Class IRI="#ConcreteConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Woman"/>
+        <Class IRI="#Human"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Woman"/>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ِAnimal"/>
+        <Class IRI="#Agent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ِAnimal"/>
+        <Class IRI="#Character"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ِAnimal"/>
+        <Class IRI="#ConcreteConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ِAnimal"/>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#Bad"/>
+            <Class IRI="#Event"/>
+        </ObjectIntersectionOf>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#Bad"/>
+            <Class IRI="#Event"/>
+        </ObjectIntersectionOf>
+        <Class IRI="#Bad"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#Bad"/>
+            <Class IRI="#Event"/>
+        </ObjectIntersectionOf>
+        <Class IRI="#Event"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#Bad"/>
+            <Class IRI="#Event"/>
+        </ObjectIntersectionOf>
+        <Class IRI="#EventTypeBad"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#Bad"/>
+            <Class IRI="#Event"/>
+        </ObjectIntersectionOf>
+        <Class IRI="#Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#Bad"/>
+            <Class IRI="#Event"/>
+        </ObjectIntersectionOf>
+        <Class IRI="#Relation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#Character"/>
+            <ObjectSomeValuesFrom>
+                <ObjectInverseOf>
+                    <ObjectProperty IRI="#ISPerformedBy"/>
+                </ObjectInverseOf>
+                <Class IRI="#EventTypeBad"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#Character"/>
+            <ObjectSomeValuesFrom>
+                <ObjectInverseOf>
+                    <ObjectProperty IRI="#ISPerformedBy"/>
+                </ObjectInverseOf>
+                <Class IRI="#EventTypeBad"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+        <Class IRI="#Agent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#Character"/>
+            <ObjectSomeValuesFrom>
+                <ObjectInverseOf>
+                    <ObjectProperty IRI="#ISPerformedBy"/>
+                </ObjectInverseOf>
+                <Class IRI="#EventTypeBad"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+        <Class IRI="#Character"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Annotation>
+            <AnnotationProperty IRI="#DASE_RULE"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">R4___EventTypeBad(?e) ^ Character(?a) ^ OPEventActor(?e, ?a) -&gt; DoBadEvent (?a)___</Literal>
+        </Annotation>
+        <ObjectIntersectionOf>
+            <Class IRI="#Character"/>
+            <ObjectSomeValuesFrom>
+                <ObjectInverseOf>
+                    <ObjectProperty IRI="#ISPerformedBy"/>
+                </ObjectInverseOf>
+                <Class IRI="#EventTypeBad"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+        <Class IRI="#DidSomeBadEvent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#Character"/>
+            <ObjectSomeValuesFrom>
+                <ObjectInverseOf>
+                    <ObjectProperty IRI="#ISPerformedBy"/>
+                </ObjectInverseOf>
+                <Class IRI="#EventTypeBad"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+        <Class IRI="#PhysicalObject"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#Character"/>
+            <ObjectSomeValuesFrom>
+                <ObjectInverseOf>
+                    <ObjectProperty IRI="#ISPerformedBy"/>
+                </ObjectInverseOf>
+                <Class IRI="#EventTypeBad"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+        <ObjectSomeValuesFrom>
+            <ObjectInverseOf>
+                <ObjectProperty IRI="#ISPerformedBy"/>
+            </ObjectInverseOf>
+            <Class IRI="#EventTypeBad"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#DidSomeBadEvent"/>
+            <Class IRI="#FeelRegret"/>
+        </ObjectIntersectionOf>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#DidSomeBadEvent"/>
+            <Class IRI="#FeelRegret"/>
+        </ObjectIntersectionOf>
+        <Class IRI="#DidSomeBadEvent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectIntersectionOf>
+            <Class IRI="#DidSomeBadEvent"/>
+            <Class IRI="#FeelRegret"/>
+        </ObjectIntersectionOf>
+        <Class IRI="#FeelRegret"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Annotation>
+            <AnnotationProperty IRI="#DASE_RULE"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">R1___DidSomeBadEvent(?a) ^ FeelRegret(?a) -&gt; GoodPerson(?a)___</Literal>
+        </Annotation>
+        <ObjectIntersectionOf>
+            <Class IRI="#DidSomeBadEvent"/>
+            <Class IRI="#FeelRegret"/>
+        </ObjectIntersectionOf>
+        <Class IRI="#GoodPerson"/>
+    </SubClassOf>
+    <SubClassOf>
+        <ObjectSomeValuesFrom>
+            <ObjectInverseOf>
+                <ObjectProperty IRI="#ISPerformedBy"/>
+            </ObjectInverseOf>
+            <Class IRI="#EventTypeRegret"/>
+        </ObjectSomeValuesFrom>
+        <Class IRI="#AbstractConcept"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Annotation>
+            <AnnotationProperty IRI="#DASE_RULE"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">R3___EventTypeRegret(?e) ^ OPEventActor(?e, ?a) -&gt; FeelRegret(?a)___</Literal>
+        </Annotation>
+        <ObjectSomeValuesFrom>
+            <ObjectInverseOf>
+                <ObjectProperty IRI="#ISPerformedBy"/>
+            </ObjectInverseOf>
+            <Class IRI="#EventTypeRegret"/>
+        </ObjectSomeValuesFrom>
+        <Class IRI="#FeelRegret"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#Belief"/>
+        <Class IRI="#Character"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Belief"/>
+        <Class IRI="#Intention"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Belief"/>
+        <Class IRI="#Job"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Belief"/>
+        <Class IRI="#Property"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Belief"/>
+        <Class IRI="#Time"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Character"/>
+        <Class IRI="#Job"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Character"/>
+        <Class IRI="#Time"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Intention"/>
+        <Class IRI="#Job"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Intention"/>
+        <Class IRI="#Time"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Job"/>
+        <Class IRI="#Property"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Job"/>
+        <Class IRI="#Time"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Property"/>
+        <Class IRI="#Time"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class IRI="#Earth"/>
+        <NamedIndividual IRI="#any_earth"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#EventTypeHelp"/>
+        <NamedIndividual IRI="#any_help"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Human"/>
+        <NamedIndividual IRI="#any_human"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#EventTypeSee"/>
+        <NamedIndividual IRI="#any_see"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#EventTypeStandUp"/>
+        <NamedIndividual IRI="#any_standup"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#EventTypeThank"/>
+        <NamedIndividual IRI="#any_thank"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#EventTypeWalk"/>
+        <NamedIndividual IRI="#any_walk"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Woman"/>
+        <NamedIndividual IRI="#any_woman"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Event"/>
+        <NamedIndividual IRI="#dfEh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Thing"/>
+        <NamedIndividual IRI="#dfEh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#EventTypeHelp"/>
+        <NamedIndividual IRI="#fsAEd"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#EventTypeFallDown"/>
+        <NamedIndividual IRI="#fwqE"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Event"/>
+        <NamedIndividual IRI="#kAn"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Thing"/>
+        <NamedIndividual IRI="#lh."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Event"/>
+        <NamedIndividual IRI="#lylEb"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Thing"/>
+        <NamedIndividual IRI="#mEh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#EventTypeRegret"/>
+        <NamedIndividual IRI="#ndm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agent"/>
+        <NamedIndividual IRI="#sAmr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Thing"/>
+        <NamedIndividual IRI="#sAmr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agent"/>
+        <NamedIndividual IRI="#tAmr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Thing"/>
+        <NamedIndividual IRI="#tAmr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#EventTypeRegret"/>
+        <NamedIndividual IRI="#tAsf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Thing"/>
+        <NamedIndividual IRI="#tSrfh"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Event"/>
+        <NamedIndividual IRI="#wSAr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Agent"/>
+        <NamedIndividual IRI="#wsAmr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Event"/>
+        <NamedIndividual IRI="#ybky."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Event"/>
+        <NamedIndividual IRI="#ylEb"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Thing"/>
+        <NamedIndividual IRI="#$qyqAn."/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Event"/>
+        <NamedIndividual IRI="#jA&apos;"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+        <NamedIndividual IRI="#any_earth"/>
+        <NamedIndividual IRI="#any_see"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+        <NamedIndividual IRI="#any_human"/>
+        <NamedIndividual IRI="#any_thank"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <NamedIndividual IRI="#any_woman"/>
+        <NamedIndividual IRI="#any_walk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+        <NamedIndividual IRI="#any_woman"/>
+        <NamedIndividual IRI="#any_help"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+        <NamedIndividual IRI="#any_woman"/>
+        <NamedIndividual IRI="#any_standup"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheCauseOf"/>
+        <NamedIndividual IRI="#dfEh"/>
+        <NamedIndividual IRI="#fwqE"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheCauseOf"/>
+        <NamedIndividual IRI="#ndm"/>
+        <NamedIndividual IRI="#fsAEd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <NamedIndividual IRI="#sAmr"/>
+        <NamedIndividual IRI="#dfEh"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <NamedIndividual IRI="#sAmr"/>
+        <NamedIndividual IRI="#fsAEd"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <NamedIndividual IRI="#sAmr"/>
+        <NamedIndividual IRI="#fwqE"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <NamedIndividual IRI="#sAmr"/>
+        <NamedIndividual IRI="#lylEb"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <NamedIndividual IRI="#sAmr"/>
+        <NamedIndividual IRI="#tAsf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <NamedIndividual IRI="#sAmr"/>
+        <NamedIndividual IRI="#wSAr"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <NamedIndividual IRI="#sAmr"/>
+        <NamedIndividual IRI="#ybky."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <NamedIndividual IRI="#sAmr"/>
+        <NamedIndividual IRI="#jA&apos;"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+        <NamedIndividual IRI="#sAmr"/>
+        <NamedIndividual IRI="#lh."/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+        <NamedIndividual IRI="#sAmr"/>
+        <NamedIndividual IRI="#mEh"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+        <NamedIndividual IRI="#sAmr"/>
+        <NamedIndividual IRI="#tSrfh"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <NamedIndividual IRI="#tAmr"/>
+        <NamedIndividual IRI="#kAn"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <NamedIndividual IRI="#tAmr"/>
+        <NamedIndividual IRI="#ndm"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <NamedIndividual IRI="#tAmr"/>
+        <NamedIndividual IRI="#ylEb"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+        <NamedIndividual IRI="#tAmr"/>
+        <NamedIndividual IRI="#dfEh"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#ISA"/>
+        <NamedIndividual IRI="#wsAmr"/>
+        <NamedIndividual IRI="#$qyqAn."/>
+    </ObjectPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#ISTheBeginTimeOfEvent"/>
+        <ObjectProperty IRI="#ISTheTimeOfEvent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#ISTheEndLocationOfEvent"/>
+        <ObjectProperty IRI="#ISTheLocationOfEvent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#ISTheEndTimeOfEvent"/>
+        <ObjectProperty IRI="#ISTheTimeOfEvent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#ISTheFirstObjectOfEvent"/>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#ISTheSecondObjectOfEvent"/>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#ISTheStartLocationOfEvent"/>
+        <ObjectProperty IRI="#ISTheLocationOfEvent"/>
+    </SubObjectPropertyOf>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#ISCausedBy"/>
+        <ObjectProperty IRI="#ISTheCauseOf"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#ISPerformedBy"/>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+    </InverseObjectProperties>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#ISPerformedBy"/>
+    </TransitiveObjectProperty>
+    <TransitiveObjectProperty>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+    </TransitiveObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISAssertedByCharacter"/>
+        <Class IRI="#Agent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISAssertedByCharacter"/>
+        <Class IRI="#Character"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISAssertedByCharacter"/>
+        <Class IRI="#ConcreteConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISAssertedByCharacter"/>
+        <Class IRI="#PhysicalObject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISCausedBy"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISCausedBy"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISPerformedBy"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISPerformedBy"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISRelatedTo"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <Class IRI="#Agent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <Class IRI="#Character"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <Class IRI="#ConcreteConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <Class IRI="#PhysicalObject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheBeginTimeOfEvent"/>
+        <Class IRI="#Time"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheBeliefOfCharacter"/>
+        <Class IRI="#Agent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheBeliefOfCharacter"/>
+        <Class IRI="#Character"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheBeliefOfCharacter"/>
+        <Class IRI="#ConcreteConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheBeliefOfCharacter"/>
+        <Class IRI="#PhysicalObject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheBenefeciaryOfEvent"/>
+        <Class IRI="#Agent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheBenefeciaryOfEvent"/>
+        <Class IRI="#Character"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheBenefeciaryOfEvent"/>
+        <Class IRI="#ConcreteConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheBenefeciaryOfEvent"/>
+        <Class IRI="#PhysicalObject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheCauseOf"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheCauseOf"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheDemandOfCharacter"/>
+        <Class IRI="#Agent"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheDemandOfCharacter"/>
+        <Class IRI="#Character"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheDemandOfCharacter"/>
+        <Class IRI="#ConcreteConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheDemandOfCharacter"/>
+        <Class IRI="#PhysicalObject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheEndLocationOfEvent"/>
+        <Class IRI="#ConcreteConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheEndLocationOfEvent"/>
+        <Class IRI="#PhysicalObject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheEndLocationOfEvent"/>
+        <Class IRI="#Place"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheEndTimeOfEvent"/>
+        <Class IRI="#Time"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheFeelingOfCharacter"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheFeelingOfCharacter"/>
+        <Class IRI="#Feeling"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheFirstObjectOfEvent"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheGoalOfEvent"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheInstrumentOfEvent"/>
+        <Class IRI="#ConcreteConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheIntendtionOfCharacter"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheIntendtionOfCharacter"/>
+        <Class IRI="#Intention"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheLocationOfEvent"/>
+        <Class IRI="#ConcreteConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheLocationOfEvent"/>
+        <Class IRI="#PhysicalObject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheLocationOfEvent"/>
+        <Class IRI="#Place"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheMannerOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheMannerOfEvent"/>
+        <Class IRI="#Relation"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISThePredicateOfEvent"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISThePropertyOf"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISThePropertyOf"/>
+        <Class IRI="#Property"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISThePropertyOf"/>
+        <Class IRI="#Relation"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheSecondObjectOfEvent"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheStartLocationOfEvent"/>
+        <Class IRI="#ConcreteConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheStartLocationOfEvent"/>
+        <Class IRI="#PhysicalObject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheStartLocationOfEvent"/>
+        <Class IRI="#Place"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheTimeOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#ISTheTimeOfEvent"/>
+        <Class IRI="#Time"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#OccuredAfterEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#OccuredAfterEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISAssertedByCharacter"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISCausedBy"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISCausedBy"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISPerformedBy"/>
+        <Class IRI="#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISPerformedBy"/>
+        <Class IRI="#Character"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISPerformedBy"/>
+        <Class IRI="#ConcreteConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISPerformedBy"/>
+        <Class IRI="#PhysicalObject"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISRelatedTo"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheBeginTimeOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheBeliefOfCharacter"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheBeliefOfCharacter"/>
+        <Class IRI="#Belief"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheCauseOf"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheCauseOf"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheDemandOfCharacter"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheEndLocationOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheEndLocationOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheEndTimeOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheFeelingOfCharacter"/>
+        <Class IRI="#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheFeelingOfCharacter"/>
+        <Class IRI="#Character"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheFeelingOfCharacter"/>
+        <Class IRI="#ConcreteConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheFeelingOfCharacter"/>
+        <Class IRI="#PhysicalObject"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheFirstObjectOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheFirstObjectOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheGoalOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheGoalOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheInstrumentOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheInstrumentOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheIntendtionOfCharacter"/>
+        <Class IRI="#Agent"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheIntendtionOfCharacter"/>
+        <Class IRI="#Character"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheIntendtionOfCharacter"/>
+        <Class IRI="#ConcreteConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheIntendtionOfCharacter"/>
+        <Class IRI="#PhysicalObject"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheLocationOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheLocationOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheMannerOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheMannerOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheObjectOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISThePredicateOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISThePredicateOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISThePropertyOf"/>
+        <Class abbreviatedIRI="owl:Thing"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheSecondObjectOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheSecondObjectOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheStartLocationOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheStartLocationOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheTimeOfEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#ISTheTimeOfEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#OccuredAfterEvent"/>
+        <Class IRI="#AbstractConcept"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#OccuredAfterEvent"/>
+        <Class IRI="#Event"/>
+    </ObjectPropertyRange>
+    <SubDataPropertyOf>
+        <DataProperty IRI="#HasName"/>
+        <DataProperty abbreviatedIRI="owl:topDataProperty"/>
+    </SubDataPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="#HasAge"/>
+        <Class IRI="#Agent"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#HasAge"/>
+        <Class IRI="#Character"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#HasAge"/>
+        <Class IRI="#ConcreteConcept"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#HasAge"/>
+        <Class IRI="#PhysicalObject"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#HasName"/>
+        <Class IRI="#Agent"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#HasName"/>
+        <Class IRI="#Character"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#HasName"/>
+        <Class IRI="#ConcreteConcept"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#HasName"/>
+        <Class IRI="#PhysicalObject"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#HasAge"/>
+        <Datatype abbreviatedIRI="xsd:nonNegativeInteger"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#HasName"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DLSafeRule>
+        <Annotation>
+            <AnnotationProperty IRI="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string"></Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">S1</Literal>
+        </Annotation>
+        <Body>
+            <ClassAtom>
+                <Class IRI="#Character"/>
+                <Variable IRI="urn:swrl#a"/>
+            </ClassAtom>
+            <ClassAtom>
+                <Class IRI="#Event"/>
+                <Variable IRI="urn:swrl#e1"/>
+            </ClassAtom>
+            <ObjectPropertyAtom>
+                <ObjectProperty IRI="#ISPerformedBy"/>
+                <Variable IRI="urn:swrl#e1"/>
+                <Variable IRI="urn:swrl#a"/>
+            </ObjectPropertyAtom>
+            <ObjectPropertyAtom>
+                <ObjectProperty IRI="#ISTheCauseOf"/>
+                <Variable IRI="urn:swrl#e1"/>
+                <Variable IRI="urn:swrl#e2"/>
+            </ObjectPropertyAtom>
+            <ClassAtom>
+                <Class IRI="#Event"/>
+                <Variable IRI="urn:swrl#e2"/>
+            </ClassAtom>
+        </Body>
+        <Head>
+            <ObjectPropertyAtom>
+                <ObjectProperty IRI="#ISPerformedBy"/>
+                <Variable IRI="urn:swrl#e2"/>
+                <Variable IRI="urn:swrl#a"/>
+            </ObjectPropertyAtom>
+        </Head>
+    </DLSafeRule>
+    <DLSafeRule>
+        <Annotation>
+            <AnnotationProperty IRI="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string"></Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">S2</Literal>
+        </Annotation>
+        <Body>
+            <ClassAtom>
+                <Class IRI="#Character"/>
+                <Variable IRI="urn:swrl#a"/>
+            </ClassAtom>
+            <ObjectPropertyAtom>
+                <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+                <Variable IRI="urn:swrl#a"/>
+                <Variable IRI="urn:swrl#e1"/>
+            </ObjectPropertyAtom>
+            <ClassAtom>
+                <Class IRI="#Event"/>
+                <Variable IRI="urn:swrl#e1"/>
+            </ClassAtom>
+            <ObjectPropertyAtom>
+                <ObjectProperty IRI="#ISTheCauseOf"/>
+                <Variable IRI="urn:swrl#e1"/>
+                <Variable IRI="urn:swrl#e2"/>
+            </ObjectPropertyAtom>
+            <ClassAtom>
+                <Class IRI="#Event"/>
+                <Variable IRI="urn:swrl#e2"/>
+            </ClassAtom>
+        </Body>
+        <Head>
+            <ObjectPropertyAtom>
+                <ObjectProperty IRI="#ISTheAgentOfEvent"/>
+                <Variable IRI="urn:swrl#a"/>
+                <Variable IRI="urn:swrl#e2"/>
+            </ObjectPropertyAtom>
+        </Head>
+    </DLSafeRule>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar_noun_sf"/>
+        <IRI>#Earth</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">الارض.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#EventTypeAbstract</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">يكرر
+احسنت</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#EventTypeBreak</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">فحطمتها</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#EventTypeCommitment</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">وعد</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#EventTypeEmotional</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">شعر
+فخاف
+وابتسم
+تخف.
+تبسم</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#EventTypeFallDown</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">فوقعت</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar_noun_sf"/>
+        <IRI>#EventTypeHelp</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">فساعدها</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#EventTypePhysical</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">قدم
+ركض
+ركل
+اهدت
+واختبا
+تختبىء</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#EventTypeRegret</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ندم
+تاسف
+اسف</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar_verb"/>
+        <IRI>#EventTypeSee</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">راى
+شاهدها</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#EventTypeStandUp</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">واوقفها.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#EventTypeThank</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">وشكرته.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#EventTypeVerbal</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">قال
+وقال
+وقال:</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#pr_3_f"/>
+        <IRI>#EventTypeWalk</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">وتمشي</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#FeelRegret</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">الشعور بالندم</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#Glass</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">زجاج</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>#GoodPerson</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">انسان جيد</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#Human</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">جمال</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#Window</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">النافذه</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar_noun_sf"/>
+        <IRI>#Woman</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">العمه</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#any_earth</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">وشكرته.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#dfEh</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#dfEh</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Thing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#dfEh</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">دفعه</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#fsAEd</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">EventTypeHelp</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#fsAEd</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">فساعد</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#fwqE</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">EventTypeFallDown</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#fwqE</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">فوقع</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#kAn</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#kAn</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">كان</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#lh.</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Thing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#lylEb</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#lylEb</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ليلعب</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#mEh</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Thing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#ndm</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">EventTypeRegret</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#ndm</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ندم</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#sAmr</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">سامر</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#tAmr</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">تامر</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#tAsf</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">EventTypeRegret</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#tAsf</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">تاسف</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#tSrfh</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Thing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#wSAr</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#wSAr</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">وصار</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#wsAmr</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">وسامر</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#ybky.</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#ybky.</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">يبكي.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#ylEb</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#ylEb</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">يلعب</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#$qyqAn.</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Thing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#jA&apos;</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Event</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="#ar"/>
+        <IRI>#jA&apos;</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">جاء</Literal>
+    </AnnotationAssertion>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#ar_noun"/>
+        <AnnotationProperty IRI="#ar"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#ar_noun_2f"/>
+        <AnnotationProperty IRI="#ar_noun"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#ar_noun_2m"/>
+        <AnnotationProperty IRI="#ar_noun"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#ar_noun_pf"/>
+        <AnnotationProperty IRI="#ar_noun"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#ar_noun_pm"/>
+        <AnnotationProperty IRI="#ar_noun"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#ar_noun_sf"/>
+        <AnnotationProperty IRI="#ar_noun"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#ar_noun_sm"/>
+        <AnnotationProperty IRI="#ar_noun"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#ar_verb"/>
+        <AnnotationProperty IRI="#ar"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#pa_1_f"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#pa_1_m"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#pa_2_f"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#pa_2_m"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#pa_3_f"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#pa_3_m"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#pr_1_f"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#pr_1_m"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#pr_2_f"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#pr_2_m"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#pr_3_f"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#pr_3_m"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+    <SubAnnotationPropertyOf>
+        <AnnotationProperty IRI="#root"/>
+        <AnnotationProperty IRI="#ar_verb"/>
+    </SubAnnotationPropertyOf>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.0.2) https://github.com/owlcs/owlapi/ -->
+
+

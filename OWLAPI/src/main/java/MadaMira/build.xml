@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+
+<project name="MADAMIRA API Example" default="run" >
+    <property name="app.name" value="MADAMIRA"/>
+    <property name="app.version" value="1.0"/>
+    <property name="max.heap.size" value="-Xmx3g"/>
+
+    <!-- overrides core classpath -->
+    <path id="classpath.base">
+        <pathelement path="."/>
+        <fileset dir="../">
+            <include name="*.jar"/>
+        </fileset>
+        <fileset dir="../third-party">
+            <include name="*.jar"/>
+        </fileset>
+        <fileset dir="../third-party/jaxb-ri-2.2.6/lib">
+            <include name="jaxb-api.jar"/>
+            <include name="jaxb-impl.jar"/>
+            <include name="jaxb-impl-javadoc.jar"/>
+            <include name="jaxb-xjc.jar"/>
+            <include name="jaxb-xjc-javadoc.jar"/>
+        </fileset>
+        <fileset dir="../third-party/jaxb-ri-2.2.6/plugins/jaxb2-basics-0.6.4">
+            <!-- JAXB2 Basics library -->
+            <include name="jaxb2-basics-0.6.4.jar"/>
+            <!-- JAXB2 Basics library dependencies -->
+            <include name="jaxb2-basics-runtime-0.6.4.jar"/>
+            <include name="jaxb2-basics-tools-0.6.4.jar"/>
+            <include name="commons-beanutils-core-1.8.3.jar"/>
+            <include name="commons-lang-2.6.jar"/>
+            <include name="commons-logging-1.1.1.jar"/>
+            <include name="javaparser-1.0.1.jar"/>
+        </fileset>
+        <pathelement path="../config"/>
+        <pathelement path="../resources"/>
+        <pathelement path="../schema/schema"/>
+    </path>
+
+    <target name="help">
+        <echo message="OPTIONS:"/>
+        <echo message="   compile: compile APIExampleUse.java"/>
+        <echo message="   run: run APIExampleUse.java"/>
+    </target>
+
+    <target name="clean">
+        <echo message="cleaning previously generated files..."/>
+        <delete>
+            <fileset dir="." includes="*.class"/>
+        </delete>
+    </target>
+
+    <target name="compile" depends="clean">
+        <javac destdir="." debug="on" srcdir="." includeantruntime="false">
+            <classpath refid="classpath.base"/>
+        </javac>
+    </target>
+
+    <target name="run" depends="compile">
+        <java classname="APIExampleUse" fork="true">
+            <classpath refid="classpath.base"/>
+
+            <jvmarg value="-Xmx2500m"/>
+            <jvmarg value="-Xms2500m"/>
+            <jvmarg value="-XX:NewRatio=3"/>
+        </java>
+    </target>
+
+</project>
+

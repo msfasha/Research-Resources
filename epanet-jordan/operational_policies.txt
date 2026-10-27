@@ -1,0 +1,28 @@
+
+OPERATIONAL POLICIES - WATER NETWORK MANAGEMENT
+
+1. PRESSURE STANDARDS
+- Minimum acceptable: 20m at all junctions
+- Maximum acceptable: 60m at all junctions
+- Critical threshold: 15m (contamination risk)
+
+2. LEAK DETECTION INDICATORS
+- Sudden pressure drops >20%
+- Flow increases without demand increase
+- Multiple low-pressure nodes in localized area
+
+3. MODEL CALIBRATION REQUIREMENTS
+- Negative pressures indicate model constraint violations
+- Requires continuous calibration with SCADA data
+- Demand patterns must be validated with consumption data
+
+4. INTERMITTENT SUPPLY (JORDAN)
+- Network operates 48-hour on/off cycles
+- Low pressure during OFF period is normal
+- Low pressure during ON period requires investigation
+
+5. EMERGENCY RESPONSE
+- Isolate affected zones
+- Notify maintenance crews
+- Reroute supply where possible
+- Monitor adjacent zones for impacts

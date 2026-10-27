@@ -1,0 +1,118 @@
+**/beta/
+nuke_git.sh
+desktop.ini
+
+# Ignore all files starting with 'skip_'
+skip_*
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode specific settings
+.vscode/
+*.code-workspace
+
+# PyCharm specific settings
+.idea/
+*.iml
+
+# Virtual environment
+.venv/
+myenv/
+env/
+bin/
+Include/
+Lib/
+Scripts/
+
+# pip specific files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pytest
+.cache/
+*.pytest_cache
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyInstaller
+# Usually these files are written by a Python script from a compiled script
+*.manifest
+*.spec
+
+# C extensions
+*.o
+*.a
+*.dylib
+*.lib
+*.dll
+*.exe
+*.pdb
+*.so
+
+# Logs and debug files
+*.log
+*.out
+
+# IDE files
+*.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS specific files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache and log files
+*.log
+*.sqlite3
+*.pkl
+
+# Environments
+.env
+*.env
+
+# Pyre type checker
+.pyre/

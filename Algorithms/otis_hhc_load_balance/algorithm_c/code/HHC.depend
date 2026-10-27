@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1387100164 source:c:\users\me\desktop\hhc\main.cpp
+	<iostream>
+	<stdio.h>
+
+1387099142 source:c:\users\me\desktop\hhc\src\processor.cpp
+	"..\include\Processor.h"
+
+1387099165 c:\users\me\desktop\hhc\include\processor.h
+
+1387126670 source:c:\users\me\desktop\hhc\src\main.cpp
+	"..\include\routines.h"
+
+1387175924 c:\users\me\desktop\hhc\include\routines.h
+	<stdio.h>
+	<iostream>
+	<math.h>
+	"node.h"
+
+1387175646 c:\users\me\desktop\hhc\include\node.h
+	<iostream>
+	<vector>
+
+1387139654 source:c:\users\me\desktop\hhc\src\node.cpp
+	"..\include\node.h"
+
+1387139447 source:c:\users\me\desktop\hhc\src\routines.cpp
+	"..\include\routines.h"
+
+1389040557 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\src\main.cpp
+	"..\include\shared.h"
+	"..\include\DDimensionHHC.h"
+	"..\include\Network.h"
+
+1387277105 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\include\routines.h
+	<stdio.h>
+	<iostream>
+
+1387268176 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\include\node.h
+	<iostream>
+	<vector>
+
+1387139654 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\src\node.cpp
+	"..\include\node.h"
+
+1387277613 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\src\routines.cpp
+	"..\include\routines.h"
+
+1387344871 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\include\hccnode.h
+	<iostream>
+	<vector>
+
+1387347157 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\src\hccnode.cpp
+	"..\include\HccNode.h"
+	<stdio.h>
+
+1387389340 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\src\onedimensionhcc.cpp
+	"..\include\OneDimensionHCC.h"
+
+1387389227 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\include\onedimensionhcc.h
+	"..\include\HHCNode.h"
+
+1387382740 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\src\ddimensionhcc.cpp
+	"..\include\DDimensionHCC.h"
+
+1387391134 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\include\ddimensionhcc.h
+	"..\include\shared.h"
+
+1388247256 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\include\shared.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	<assert.h>
+	<math.h>
+	<vector>
+
+1389077896 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\src\shared.cpp
+	"..\include\shared.h"
+	"..\include\HHCNode.h"
+	"..\include\Network.h"
+	"..\include\OneDimensionHHC.h"
+	"..\include\DDimensionHHC.h"
+
+1388247256 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\include\hhcnode.h
+	<iostream>
+	<vector>
+	"shared.h"
+
+1388266603 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\src\hhcnode.cpp
+	"..\include\HHCNode.h"
+	"..\include\OneDimensionHHC.h"
+	"..\include\DDimensionHHC.h"
+
+1388247256 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\include\onedimensionhhc.h
+	"..\include\shared.h"
+	"..\include\HHCNode.h"
+
+1387389356 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc - copy\src\hhcnode.cpp
+	"..\include\HHCNode.h"
+
+1387392518 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc - copy\include\hhcnode.h
+	<iostream>
+	<vector>
+	"shared.h"
+
+1387392940 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc - copy\include\shared.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	<assert.h>
+	<math.h>
+	<vector>
+
+1387392527 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc - copy\include\onedimensionhhc.h
+	"HHCNode.h"
+
+1387392740 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc - copy\src\ddimensionhhc.cpp
+	"..\include\DDimensionHHC.h"
+
+1387392719 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc - copy\include\ddimensionhhc.h
+	"..\include\shared.h"
+	"..\include\OneDimensionHHC.h"
+
+1387392768 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc - copy\src\main.cpp
+	"..\include\shared.h"
+	"..\include\DDimensionHHC.h"
+
+1387391329 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc - copy\src\onedimensionhhc.cpp
+	"..\include\OneDimensionHHC.h"
+
+1387392849 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc - copy\src\shared.cpp
+	"..\include\shared.h"
+	"..\include\HHCNode.h"
+
+1389074731 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\src\ddimensionhhc.cpp
+	"..\include\DDimensionHHC.h"
+
+1389074675 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\include\ddimensionhhc.h
+	"..\include\OneDimensionHHC.h"
+
+1388466171 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\src\onedimensionhhc.cpp
+	"..\include\OneDimensionHHC.h"
+	"..\include\HHCNode.h"
+	"..\include\DDimensionHHC.h"
+
+1389041864 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\src\network.cpp
+	"..\include\Network.h"
+
+1389036426 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\include\network.h
+	"HHCNode.h"
+
+1387492633 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc\include\tmp.h
+	"HHCNode.h"
+	"..\include\OneDimensionHHC.h"
+
+1387565734 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc working copy 20_12_2013\hhc\src\ddimensionhhc.cpp
+	"..\include\DDimensionHHC.h"
+
+1387565295 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc working copy 20_12_2013\hhc\include\ddimensionhhc.h
+	"..\include\OneDimensionHHC.h"
+
+1387565725 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc working copy 20_12_2013\hhc\include\onedimensionhhc.h
+	"..\include\shared.h"
+	"..\include\HHCNode.h"
+
+1387492290 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc working copy 20_12_2013\hhc\include\shared.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	<assert.h>
+	<math.h>
+	<vector>
+
+1387565162 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc working copy 20_12_2013\hhc\include\hhcnode.h
+	<iostream>
+	<vector>
+	"shared.h"
+
+1387565169 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc working copy 20_12_2013\hhc\src\hhcnode.cpp
+	"..\include\HHCNode.h"
+	"..\include\OneDimensionHHC.h"
+
+1387541712 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc working copy 20_12_2013\hhc\src\main.cpp
+	"..\include\shared.h"
+	"..\include\DDimensionHHC.h"
+
+1387486602 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc working copy 20_12_2013\hhc\src\network.cpp
+	"..\include\Network.h"
+
+1387492268 c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc working copy 20_12_2013\hhc\include\network.h
+	"HHCNode.h"
+
+1387565743 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc working copy 20_12_2013\hhc\src\onedimensionhhc.cpp
+	"..\include\OneDimensionHHC.h"
+	"..\include\HHCNode.h"
+	"..\include\DDimensionHHC.h"
+
+1387565695 source:c:\users\me\desktop\phd jordan uni\distributed operating systems\dr.ma7aftha\task 1\hhc working copy 20_12_2013\hhc\src\shared.cpp
+	"..\include\shared.h"
+	"..\include\HHCNode.h"
+	"..\include\Network.h"
+	"..\include\OneDimensionHHC.h"
+	"..\include\DDimensionHHC.h"
+
